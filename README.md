@@ -4,7 +4,7 @@ Location-based Indoor AR Navigation Web app. Cross-compatible with Android and i
 - Developed for Aura Interactive - 
 
 Public Link: https://d.webxr.run/?url=https%3A%2F%2Fzp6q0.zappar-us.io%2F2196645359658251143%2F
-NOTE: The Application will not function as intended unless the user is in the same space that was mapped and configured.
+(NOTE: The Application will not function as intended unless the user is in the same space that was mapped and configured.)
 
 Documentation (to recreate or to adapt it to a different space): https://aura-interactive.gitbook.io/aura-interactive-docs/iK5OaTG9E6lkXbwWWbv6
 
