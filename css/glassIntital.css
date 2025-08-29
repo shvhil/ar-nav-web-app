@@ -1,0 +1,36 @@
+.glass-btn-container {
+  display: flex;
+  gap: 20px; /* spacing between the buttons */
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.glass-btn {
+  background: rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1.5px solid rgba(255, 255, 255, 0.4);
+  border-radius: 15px;
+  padding: 12px 30px;
+  font-size: 16px;
+  font-weight: 600;
+  color: #ffffff;
+  cursor: pointer;
+  transition: background 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.glass-btn:active {
+  background: rgba(255, 255, 255, 0.3);
+  box-shadow: 0 6px 30px rgba(0, 0, 0, 0.15);
+}
+
+
+.main-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+
+}

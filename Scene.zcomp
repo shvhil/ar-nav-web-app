@@ -1,0 +1,6033 @@
+{
+	"animation": {
+		"clips": {
+			"0ac76322a9fe42f29da814dbf577e187": {
+				"id": "0ac76322a9fe42f29da814dbf577e187",
+				"length": 0,
+				"lengthType": "expand",
+				"name": "TowardsEntrance",
+				"order": "a8",
+				"scriptName": "TowardsEntrance",
+				"tracks": {
+					"13b21916b2464ca6bf1e705347c29073": {
+						"blend": "overlay",
+						"entityID": "12838335971c49e8848aae05081a6521",
+						"id": "13b21916b2464ca6bf1e705347c29073",
+						"keyframes": {
+							"bf9f0e4824bb4630b3754da0d12d9c5d": {
+								"id": "bf9f0e4824bb4630b3754da0d12d9c5d",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "Zvzt",
+						"property": [
+							"visible"
+						],
+						"type": "property",
+						"weight": {
+							"529c3305f4d742568023f7bcaa467224-blend": {
+								"id": "529c3305f4d742568023f7bcaa467224-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"24c9862c53b5444ab7080a6705912dfa": {
+						"blend": "overlay",
+						"entityID": "12838335971c49e8848aae05081a6521",
+						"id": "24c9862c53b5444ab7080a6705912dfa",
+						"keyframes": {
+							"efe23fc94fcf40208c305247c035231c": {
+								"id": "efe23fc94fcf40208c305247c035231c",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "Zvzl",
+						"property": [
+							"gpuAccelerateSDF"
+						],
+						"type": "property",
+						"weight": {
+							"b5234c45093e45fba59acb8003129c8c-blend": {
+								"id": "b5234c45093e45fba59acb8003129c8c-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"2969677cfa30455292a462a52d92ee90": {
+						"blend": "overlay",
+						"entityID": "ac09dd01f62b47fba18a205b8390074e",
+						"id": "2969677cfa30455292a462a52d92ee90",
+						"keyframes": {
+							"2351c7e24b404eebbbe144dc2f382595": {
+								"id": "2351c7e24b404eebbbe144dc2f382595",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "a0",
+						"property": [
+							"castShadow"
+						],
+						"type": "property",
+						"weight": {
+							"e2906a5d05054fcaaeb76363c22c8011-blend": {
+								"id": "e2906a5d05054fcaaeb76363c22c8011-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"2c81975673b4487dbdf8b624b0f40ce4": {
+						"blend": "overlay",
+						"entityID": "fee4292f58784138ac2fb7d2470d48dd",
+						"id": "2c81975673b4487dbdf8b624b0f40ce4",
+						"keyframes": {
+							"f18c6ea391c9421cafe4ca7976326c34": {
+								"id": "f18c6ea391c9421cafe4ca7976326c34",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "Zxt",
+						"property": [
+							"receiveShadow"
+						],
+						"type": "property",
+						"weight": {
+							"337c0e84a8b940628523f1577488ce87-blend": {
+								"id": "337c0e84a8b940628523f1577488ce87-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"3787fa9c67784796ad411930d7615976": {
+						"blend": "overlay",
+						"entityID": "f4efe4adc48e4ad7aefdccc1b34283c0",
+						"id": "3787fa9c67784796ad411930d7615976",
+						"keyframes": {
+							"a29ab5a397b24fc691f9feb1e68c9ad2": {
+								"id": "a29ab5a397b24fc691f9feb1e68c9ad2",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "Zw",
+						"property": [
+							"castShadow"
+						],
+						"type": "property",
+						"weight": {
+							"b7032a118c78479585974ca130ced485-blend": {
+								"id": "b7032a118c78479585974ca130ced485-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"3e878ad0205542bd8a5d15bb84f55d9f": {
+						"blend": "overlay",
+						"entityID": "fee4292f58784138ac2fb7d2470d48dd",
+						"id": "3e878ad0205542bd8a5d15bb84f55d9f",
+						"keyframes": {
+							"01d42986426b497eafa8415ed7e347c6": {
+								"id": "01d42986426b497eafa8415ed7e347c6",
+								"t": 0,
+								"v": [
+									0,
+									-0.27109102136527574,
+									0
+								]
+							}
+						},
+						"order": "ZyV",
+						"property": [
+							"position"
+						],
+						"type": "property",
+						"weight": {
+							"ccdd503530cf4d0ab614ef64f9eb253c-blend": {
+								"id": "ccdd503530cf4d0ab614ef64f9eb253c-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"3fa013b544ef42f5b96f05d122c218d6": {
+						"blend": "overlay",
+						"entityID": "f4efe4adc48e4ad7aefdccc1b34283c0",
+						"id": "3fa013b544ef42f5b96f05d122c218d6",
+						"keyframes": {
+							"c74b83d905e1422d9e01570c4ddf2552": {
+								"id": "c74b83d905e1422d9e01570c4ddf2552",
+								"t": 0,
+								"v": [
+									1.621922529896548,
+									-0.5165927082883819,
+									-1.0386082902290152
+								]
+							}
+						},
+						"order": "Zwx",
+						"property": [
+							"position"
+						],
+						"type": "property",
+						"weight": {
+							"896461ce27d94cdbac5277e5518d0cc0-blend": {
+								"id": "896461ce27d94cdbac5277e5518d0cc0-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"3fef4c4c2d6b427eb6b1637f1191a1c0": {
+						"blend": "overlay",
+						"entityID": "fee4292f58784138ac2fb7d2470d48dd",
+						"id": "3fef4c4c2d6b427eb6b1637f1191a1c0",
+						"keyframes": {
+							"49f8551035594b1a8c3578c6d2726d73": {
+								"id": "49f8551035594b1a8c3578c6d2726d73",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "Zxl",
+						"property": [
+							"castShadow"
+						],
+						"type": "property",
+						"weight": {
+							"b2d197cdf135455ca9190c635eec1dd1-blend": {
+								"id": "b2d197cdf135455ca9190c635eec1dd1-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"467417c6beba4a1393db6e653925ab3a": {
+						"blend": "overlay",
+						"entityID": "12838335971c49e8848aae05081a6521",
+						"id": "467417c6beba4a1393db6e653925ab3a",
+						"keyframes": {
+							"7bd692b40a244e599b1129854d63a7ee": {
+								"id": "7bd692b40a244e599b1129854d63a7ee",
+								"t": 0,
+								"v": [
+									1,
+									1,
+									1
+								]
+							}
+						},
+						"order": "ZvV",
+						"property": [
+							"color"
+						],
+						"type": "property",
+						"weight": {
+							"6ebed378e56942f882c0cae8acd2179a-blend": {
+								"id": "6ebed378e56942f882c0cae8acd2179a-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"482861eae694487da6c2b5731b36a6a8": {
+						"blend": "overlay",
+						"entityID": "ac09dd01f62b47fba18a205b8390074e",
+						"id": "482861eae694487da6c2b5731b36a6a8",
+						"keyframes": {
+							"b31aac70d1e34023a7f22aa5cac5b651": {
+								"id": "b31aac70d1e34023a7f22aa5cac5b651",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "a1",
+						"property": [
+							"receiveShadow"
+						],
+						"type": "property",
+						"weight": {
+							"ef284e91a1514c598d075a997a21e51a-blend": {
+								"id": "ef284e91a1514c598d075a997a21e51a-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"601f7bbd63db47e0a8f44b4debdb7f5a": {
+						"blend": "overlay",
+						"entityID": "12838335971c49e8848aae05081a6521",
+						"id": "601f7bbd63db47e0a8f44b4debdb7f5a",
+						"keyframes": {
+							"0e4ff77857f745fda263aa7186e4d590": {
+								"id": "0e4ff77857f745fda263aa7186e4d590",
+								"t": 0,
+								"v": "center"
+							}
+						},
+						"order": "Zvt",
+						"property": [
+							"anchorX"
+						],
+						"type": "property",
+						"weight": {
+							"5190079b4dff44dcb69b4e86794fab1d-blend": {
+								"id": "5190079b4dff44dcb69b4e86794fab1d-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"6a6acddb8e1a4a879de643b1da074698": {
+						"blend": "overlay",
+						"entityID": "12838335971c49e8848aae05081a6521",
+						"id": "6a6acddb8e1a4a879de643b1da074698",
+						"keyframes": {
+							"224b7afdd85a438a8dd868d9ad45e102": {
+								"id": "224b7afdd85a438a8dd868d9ad45e102",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "Zvzx",
+						"property": [
+							"castShadow"
+						],
+						"type": "property",
+						"weight": {
+							"1398ddd1e07e47f8afcf9db70121a6f7-blend": {
+								"id": "1398ddd1e07e47f8afcf9db70121a6f7-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"6f8b0bf590fe47e1962d390d9261c15e": {
+						"blend": "overlay",
+						"entityID": "ac09dd01f62b47fba18a205b8390074e",
+						"id": "6f8b0bf590fe47e1962d390d9261c15e",
+						"keyframes": {
+							"0f2acab063804014a0fb7a455dc2aa4d": {
+								"id": "0f2acab063804014a0fb7a455dc2aa4d",
+								"t": 0,
+								"v": [
+									1.5707963267948966,
+									0,
+									0
+								]
+							}
+						},
+						"order": "a5",
+						"property": [
+							"rotation"
+						],
+						"type": "property",
+						"weight": {
+							"d08b830c898c4537a0cdadd3846b7df3-blend": {
+								"id": "d08b830c898c4537a0cdadd3846b7df3-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"7420536387d5443d8e14189e9bf6e961": {
+						"blend": "overlay",
+						"entityID": "fee4292f58784138ac2fb7d2470d48dd",
+						"id": "7420536387d5443d8e14189e9bf6e961",
+						"keyframes": {
+							"c610194649cb42748f3bf011bae11f41": {
+								"id": "c610194649cb42748f3bf011bae11f41",
+								"t": 0,
+								"v": "f4efe4adc48e4ad7aefdccc1b34283c0"
+							}
+						},
+						"order": "Zx",
+						"property": [
+							"target"
+						],
+						"type": "property",
+						"weight": {
+							"7ac5dc1e394541bdbe7083ddf9089f22-blend": {
+								"id": "7ac5dc1e394541bdbe7083ddf9089f22-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"78e152c4d7a146e0aaf02704b9e93ad3": {
+						"blend": "overlay",
+						"entityID": "ac09dd01f62b47fba18a205b8390074e",
+						"id": "78e152c4d7a146e0aaf02704b9e93ad3",
+						"keyframes": {
+							"774a93ef00154d8ca4a9f342f10075e4": {
+								"id": "774a93ef00154d8ca4a9f342f10075e4",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "a6",
+						"property": [
+							"enabled"
+						],
+						"type": "property",
+						"weight": {
+							"6f51b15822b04633b906a5ee95507990-blend": {
+								"id": "6f51b15822b04633b906a5ee95507990-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"7f26c15c534847d49a8b0f72794d6f4e": {
+						"blend": "overlay",
+						"entityID": "f4efe4adc48e4ad7aefdccc1b34283c0",
+						"id": "7f26c15c534847d49a8b0f72794d6f4e",
+						"keyframes": {
+							"da63f8e540a84488989ed9b53ff9512f": {
+								"id": "da63f8e540a84488989ed9b53ff9512f",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "ZwV",
+						"property": [
+							"receiveShadow"
+						],
+						"type": "property",
+						"weight": {
+							"aef908c260e44b4b9dfc7569a75ad979-blend": {
+								"id": "aef908c260e44b4b9dfc7569a75ad979-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"7f69fbc0305245228342c332cc1697f8": {
+						"blend": "overlay",
+						"entityID": "12838335971c49e8848aae05081a6521",
+						"id": "7f69fbc0305245228342c332cc1697f8",
+						"keyframes": {
+							"42474fc7268c4c15b128174d2d0a91c2": {
+								"id": "42474fc7268c4c15b128174d2d0a91c2",
+								"t": 0,
+								"v": 0.1
+							}
+						},
+						"order": "Zvl",
+						"property": [
+							"fontSize"
+						],
+						"type": "property",
+						"weight": {
+							"49d3473b4708419988417794865b60ee-blend": {
+								"id": "49d3473b4708419988417794865b60ee-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"8c8aa27baa5543c38067b212518e30ef": {
+						"blend": "overlay",
+						"entityID": "12838335971c49e8848aae05081a6521",
+						"id": "8c8aa27baa5543c38067b212518e30ef",
+						"keyframes": {
+							"8d2efd9cf4ab45f2b359c08e863a7f6f": {
+								"id": "8d2efd9cf4ab45f2b359c08e863a7f6f",
+								"t": 0,
+								"v": "ltf"
+							}
+						},
+						"order": "Zvz",
+						"property": [
+							"direction"
+						],
+						"type": "property",
+						"weight": {
+							"074de6aa5f404645b55e71c0a0c14df0-blend": {
+								"id": "074de6aa5f404645b55e71c0a0c14df0-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"8cc646c41a7b43d8b669124d915c9dcc": {
+						"blend": "overlay",
+						"entityID": "fee4292f58784138ac2fb7d2470d48dd",
+						"id": "8cc646c41a7b43d8b669124d915c9dcc",
+						"keyframes": {
+							"2c4d177ad9374c7f83b338f03bf0dba5": {
+								"id": "2c4d177ad9374c7f83b338f03bf0dba5",
+								"t": 0,
+								"v": [
+									0,
+									0,
+									0
+								]
+							}
+						},
+						"order": "Zyt",
+						"property": [
+							"rotation"
+						],
+						"type": "property",
+						"weight": {
+							"5a952a9915f546a19be793e2ee50d6dc-blend": {
+								"id": "5a952a9915f546a19be793e2ee50d6dc-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"ac82712f2b6446868c4326305b84847a": {
+						"blend": "overlay",
+						"entityID": "ac09dd01f62b47fba18a205b8390074e",
+						"id": "ac82712f2b6446868c4326305b84847a",
+						"keyframes": {
+							"f00e8a576c8348cf8c43f22931f54ebb": {
+								"id": "f00e8a576c8348cf8c43f22931f54ebb",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "a2",
+						"property": [
+							"visible"
+						],
+						"type": "property",
+						"weight": {
+							"4dd19f66a1784e46aa41cc5c1157eabc-blend": {
+								"id": "4dd19f66a1784e46aa41cc5c1157eabc-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"b23d3e6b4aaf4965996b79a4c21b45b7": {
+						"blend": "overlay",
+						"entityID": "12838335971c49e8848aae05081a6521",
+						"id": "b23d3e6b4aaf4965996b79a4c21b45b7",
+						"keyframes": {
+							"a64b7fe276e147558beb06f2d33ab7e6": {
+								"id": "a64b7fe276e147558beb06f2d33ab7e6",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "ZvzV",
+						"property": [
+							"doubleSide"
+						],
+						"type": "property",
+						"weight": {
+							"2c0f142177ea41f9a82e7fcb1582daed-blend": {
+								"id": "2c0f142177ea41f9a82e7fcb1582daed-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"b6c977e4219249caa762e57a2080d496": {
+						"blend": "overlay",
+						"entityID": "12838335971c49e8848aae05081a6521",
+						"id": "b6c977e4219249caa762e57a2080d496",
+						"keyframes": {
+							"31af4e5a1b894c2bbed43c0dd52c6dd2": {
+								"id": "31af4e5a1b894c2bbed43c0dd52c6dd2",
+								"t": 0,
+								"v": "middle"
+							}
+						},
+						"order": "Zvx",
+						"property": [
+							"anchorY"
+						],
+						"type": "property",
+						"weight": {
+							"435e5f9be8f849cb961362f456cbbe41-blend": {
+								"id": "435e5f9be8f849cb961362f456cbbe41-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"cfa08495660b45edab2ca1155bbbe105": {
+						"blend": "overlay",
+						"entityID": "f4efe4adc48e4ad7aefdccc1b34283c0",
+						"id": "cfa08495660b45edab2ca1155bbbe105",
+						"keyframes": {
+							"42d3e46869e84b9991c1464ea8766a4c": {
+								"id": "42d3e46869e84b9991c1464ea8766a4c",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "Zwl",
+						"property": [
+							"visible"
+						],
+						"type": "property",
+						"weight": {
+							"3a0939d1d79940e2bc5f22a3eea84063-blend": {
+								"id": "3a0939d1d79940e2bc5f22a3eea84063-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"d3c0c53925c641e4b116684e9fcb6db4": {
+						"blend": "overlay",
+						"entityID": "fee4292f58784138ac2fb7d2470d48dd",
+						"id": "d3c0c53925c641e4b116684e9fcb6db4",
+						"keyframes": {
+							"ff41cf304fca484b9c60130bd5769c0d": {
+								"id": "ff41cf304fca484b9c60130bd5769c0d",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "Zy",
+						"property": [
+							"enabled"
+						],
+						"type": "property",
+						"weight": {
+							"5df99fa607ae4619a4aeecbb17ffa70d-blend": {
+								"id": "5df99fa607ae4619a4aeecbb17ffa70d-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"df3c278093644fe68d07e84a99616a39": {
+						"blend": "overlay",
+						"entityID": "12838335971c49e8848aae05081a6521",
+						"id": "df3c278093644fe68d07e84a99616a39",
+						"keyframes": {
+							"f265948774e044d69660c2894c0bd62e": {
+								"id": "f265948774e044d69660c2894c0bd62e",
+								"t": 0,
+								"v": "Entrance / Exit"
+							}
+						},
+						"order": "Zv",
+						"property": [
+							"text"
+						],
+						"type": "property",
+						"weight": {
+							"64d7889267c64e6ebb3a6e7395a8c39b-blend": {
+								"id": "64d7889267c64e6ebb3a6e7395a8c39b-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"ebf5d5c5af594a9bbc2dd02e29d2b1cf": {
+						"blend": "overlay",
+						"entityID": "12838335971c49e8848aae05081a6521",
+						"id": "ebf5d5c5af594a9bbc2dd02e29d2b1cf",
+						"keyframes": {
+							"8c8b7ed7187e44baaa6c305addebb55d": {
+								"id": "8c8b7ed7187e44baaa6c305addebb55d",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "Zvzz",
+						"property": [
+							"receiveShadow"
+						],
+						"type": "property",
+						"weight": {
+							"5fb9e129681d47a4b941ec8184847de5-blend": {
+								"id": "5fb9e129681d47a4b941ec8184847de5-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"f25b291303df4637b279b798b76c8768": {
+						"blend": "overlay",
+						"entityID": "f4efe4adc48e4ad7aefdccc1b34283c0",
+						"id": "f25b291303df4637b279b798b76c8768",
+						"keyframes": {
+							"451fe266843d4557bc72646ee65f8b02": {
+								"id": "451fe266843d4557bc72646ee65f8b02",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "Zwt",
+						"property": [
+							"enabled"
+						],
+						"type": "property",
+						"weight": {
+							"b52a0b41c4af406b85e6388591e32295-blend": {
+								"id": "b52a0b41c4af406b85e6388591e32295-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"f3ec158c16f747be858b51a8c32a3681": {
+						"blend": "overlay",
+						"entityID": "ac09dd01f62b47fba18a205b8390074e",
+						"id": "f3ec158c16f747be858b51a8c32a3681",
+						"keyframes": {
+							"ce167a80bbfa463ea5e08dc2c0e63fa9": {
+								"id": "ce167a80bbfa463ea5e08dc2c0e63fa9",
+								"t": 0,
+								"v": [
+									0,
+									0,
+									0
+								]
+							}
+						},
+						"order": "a3",
+						"property": [
+							"position"
+						],
+						"type": "property",
+						"weight": {
+							"1956a467b9284f4db076fbad04aedad8-blend": {
+								"id": "1956a467b9284f4db076fbad04aedad8-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"fc4dc6fa1185442f9563ab9d384df374": {
+						"blend": "overlay",
+						"entityID": "fee4292f58784138ac2fb7d2470d48dd",
+						"id": "fc4dc6fa1185442f9563ab9d384df374",
+						"keyframes": {
+							"5b488fa0bce84e459f929d631a543eeb": {
+								"id": "5b488fa0bce84e459f929d631a543eeb",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "ZxV",
+						"property": [
+							"visible"
+						],
+						"type": "property",
+						"weight": {
+							"20c4586c2a9b419189c5c314c30731e8-blend": {
+								"id": "20c4586c2a9b419189c5c314c30731e8-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					}
+				},
+				"type": "state"
+			},
+			"10cd283c4ce54c8893543c77a013bbcf": {
+				"id": "10cd283c4ce54c8893543c77a013bbcf",
+				"length": 0,
+				"lengthType": "auto",
+				"name": "Visible",
+				"order": "a2",
+				"scriptName": "Visible",
+				"tracks": {
+				},
+				"type": "state"
+			},
+			"158e2713dca045999a5c97f8b00758aa": {
+				"id": "158e2713dca045999a5c97f8b00758aa",
+				"length": 0,
+				"lengthType": "expand",
+				"name": "Explore Mode Trigger",
+				"order": "a9",
+				"scriptName": "Explore_ModeTrigger",
+				"tracks": {
+					"07388e7081874433826682c54bdb5e02": {
+						"blend": "overlay",
+						"entityID": "0cfc446f9586443facfe2b0388a21e59",
+						"id": "07388e7081874433826682c54bdb5e02",
+						"keyframes": {
+							"1b552191956c4740ac2a1f3df72791fc": {
+								"id": "1b552191956c4740ac2a1f3df72791fc",
+								"t": 0,
+								"v": "center"
+							}
+						},
+						"order": "a8",
+						"property": [
+							"horizontalAnchor"
+						],
+						"type": "property",
+						"weight": {
+							"166ca9ed60194a718bff08e30ea85f2d-blend": {
+								"id": "166ca9ed60194a718bff08e30ea85f2d-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"0d6d6000df0f40318163974942bd8731": {
+						"blend": "overlay",
+						"entityID": "8ef488a2f704467e93bcb6279b8fe1a1",
+						"id": "0d6d6000df0f40318163974942bd8731",
+						"keyframes": {
+							"656060b7f9a44528af0cfa2d9e1a0a34": {
+								"id": "656060b7f9a44528af0cfa2d9e1a0a34",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "Zvt",
+						"property": [
+							"receiveShadow"
+						],
+						"type": "property",
+						"weight": {
+							"b04c6dc4c89142c2ae43931c6336b35d-blend": {
+								"id": "b04c6dc4c89142c2ae43931c6336b35d-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"0f46985d094a4c5baedfe95028086f82": {
+						"blend": "overlay",
+						"entityID": "0cfc446f9586443facfe2b0388a21e59",
+						"id": "0f46985d094a4c5baedfe95028086f82",
+						"keyframes": {
+							"1681fc993fd2452e8395750ee924cf86": {
+								"id": "1681fc993fd2452e8395750ee924cf86",
+								"t": 0,
+								"v": [
+									1,
+									1,
+									1
+								]
+							}
+						},
+						"order": "a4",
+						"property": [
+							"scale"
+						],
+						"type": "property",
+						"weight": {
+							"c124db128c89490c90e9c091db41f798-blend": {
+								"id": "c124db128c89490c90e9c091db41f798-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"0fd2044c4f0d44ff96bcf192e682a510": {
+						"blend": "overlay",
+						"entityID": "0cfc446f9586443facfe2b0388a21e59",
+						"id": "0fd2044c4f0d44ff96bcf192e682a510",
+						"keyframes": {
+							"11c010f14d7d4cbf877f6cc3d9d548f8": {
+								"id": "11c010f14d7d4cbf877f6cc3d9d548f8",
+								"t": 0,
+								"v": [
+									0,
+									0,
+									0
+								]
+							}
+						},
+						"order": "a5",
+						"property": [
+							"rotation"
+						],
+						"type": "property",
+						"weight": {
+							"40d866d519064c21b77941b50c3d93ee-blend": {
+								"id": "40d866d519064c21b77941b50c3d93ee-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"1741da4eab3e4a428ee355a2feb9fd23": {
+						"blend": "overlay",
+						"entityID": "12838335971c49e8848aae05081a6521",
+						"id": "1741da4eab3e4a428ee355a2feb9fd23",
+						"keyframes": {
+							"a3b7e47809cd40a8845371b27c799f6f": {
+								"id": "a3b7e47809cd40a8845371b27c799f6f",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "Zu",
+						"property": [
+							"receiveShadow"
+						],
+						"type": "property",
+						"weight": {
+							"279403c6683a4e41b046e9e38eae5091-blend": {
+								"id": "279403c6683a4e41b046e9e38eae5091-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"3b43d8dc3ef54ab992d2854e3d3eb820": {
+						"blend": "overlay",
+						"entityID": "12838335971c49e8848aae05081a6521",
+						"id": "3b43d8dc3ef54ab992d2854e3d3eb820",
+						"keyframes": {
+							"83259cf5eb7749f297e19fb9c8dedcb8": {
+								"id": "83259cf5eb7749f297e19fb9c8dedcb8",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "Zul",
+						"property": [
+							"castShadow"
+						],
+						"type": "property",
+						"weight": {
+							"f8371d64a1964989b0add87254221667-blend": {
+								"id": "f8371d64a1964989b0add87254221667-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"3d5f8dd0668e466ba0e6102c54570b79": {
+						"blend": "overlay",
+						"entityID": "0cfc446f9586443facfe2b0388a21e59",
+						"id": "3d5f8dd0668e466ba0e6102c54570b79",
+						"keyframes": {
+							"722ad5be94664ae793c724ecd9fb1d43": {
+								"id": "722ad5be94664ae793c724ecd9fb1d43",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "a0",
+						"property": [
+							"visible"
+						],
+						"type": "property",
+						"weight": {
+							"9bfab535c20a47369dc8806ad3b7f635-blend": {
+								"id": "9bfab535c20a47369dc8806ad3b7f635-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"3f8d23fcd10f42feba53a0f553df7c7f": {
+						"blend": "overlay",
+						"entityID": "f4efe4adc48e4ad7aefdccc1b34283c0",
+						"id": "3f8d23fcd10f42feba53a0f553df7c7f",
+						"keyframes": {
+							"44286a96a0a54d048f7a42591bee5924": {
+								"id": "44286a96a0a54d048f7a42591bee5924",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "Zw",
+						"property": [
+							"castShadow"
+						],
+						"type": "property",
+						"weight": {
+							"df6ea48f682743aaa27881865eaf4c5c-blend": {
+								"id": "df6ea48f682743aaa27881865eaf4c5c-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"45975190602c47d4a578390605a1d778": {
+						"blend": "overlay",
+						"entityID": "8ef488a2f704467e93bcb6279b8fe1a1",
+						"id": "45975190602c47d4a578390605a1d778",
+						"keyframes": {
+							"973b568ecc5e4d2593d4fc79bba87ec0": {
+								"id": "973b568ecc5e4d2593d4fc79bba87ec0",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "ZvV",
+						"property": [
+							"visible"
+						],
+						"type": "property",
+						"weight": {
+							"1d890d0774e646b981fcfcedff109682-blend": {
+								"id": "1d890d0774e646b981fcfcedff109682-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"50a1b135c77744af91765459f9324703": {
+						"blend": "overlay",
+						"entityID": "e82e6317dd4742bd904136ffb9998668",
+						"id": "50a1b135c77744af91765459f9324703",
+						"keyframes": {
+							"459e8af292f64012829960e53076298e": {
+								"id": "459e8af292f64012829960e53076298e",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "ZxV",
+						"property": [
+							"receiveShadow"
+						],
+						"type": "property",
+						"weight": {
+							"7c67e17ba33a49719df1b679afb1fee7-blend": {
+								"id": "7c67e17ba33a49719df1b679afb1fee7-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"57ba68b2ab04462aa4fcf7f408cf30ec": {
+						"blend": "overlay",
+						"entityID": "ac09dd01f62b47fba18a205b8390074e",
+						"id": "57ba68b2ab04462aa4fcf7f408cf30ec",
+						"keyframes": {
+							"4719d70646574ad89d9699e5df9da241": {
+								"id": "4719d70646574ad89d9699e5df9da241",
+								"t": 0,
+								"v": false
+							}
+						},
+						"order": "Zz",
+						"property": [
+							"visible"
+						],
+						"type": "property",
+						"weight": {
+							"42e42b27cd04496fa2463dd7e0ee9c69-blend": {
+								"id": "42e42b27cd04496fa2463dd7e0ee9c69-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"5f11068edcc743379a1df0cbe24ca57a": {
+						"blend": "overlay",
+						"entityID": "8ef488a2f704467e93bcb6279b8fe1a1",
+						"id": "5f11068edcc743379a1df0cbe24ca57a",
+						"keyframes": {
+							"95015e36f58b40e2883f3db94eec9ba1": {
+								"id": "95015e36f58b40e2883f3db94eec9ba1",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "Zv",
+						"property": [
+							"doubleSide"
+						],
+						"type": "property",
+						"weight": {
+							"2e6cb55f017a40228d570cf636713d9f-blend": {
+								"id": "2e6cb55f017a40228d570cf636713d9f-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"613cb87f4d8f4063b78c95a905c8e239": {
+						"blend": "overlay",
+						"entityID": "8ef488a2f704467e93bcb6279b8fe1a1",
+						"id": "613cb87f4d8f4063b78c95a905c8e239",
+						"keyframes": {
+							"29464894a201404c98494bad94ef5224": {
+								"id": "29464894a201404c98494bad94ef5224",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "Zvl",
+						"property": [
+							"castShadow"
+						],
+						"type": "property",
+						"weight": {
+							"d2484c6e8a37489aaa89755069a6dfd9-blend": {
+								"id": "d2484c6e8a37489aaa89755069a6dfd9-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"633225e9246643b999c2d530e1537638": {
+						"blend": "overlay",
+						"entityID": "0cfc446f9586443facfe2b0388a21e59",
+						"id": "633225e9246643b999c2d530e1537638",
+						"keyframes": {
+							"8ebc7af0199f4bb18e6f93d3256407a0": {
+								"id": "8ebc7af0199f4bb18e6f93d3256407a0",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "a6",
+						"property": [
+							"enabled"
+						],
+						"type": "property",
+						"weight": {
+							"cba45c267ee34e31be59d99ab0f9b49f-blend": {
+								"id": "cba45c267ee34e31be59d99ab0f9b49f-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"63d1771af7f840489247d09579c50626": {
+						"blend": "overlay",
+						"entityID": "0cfc446f9586443facfe2b0388a21e59",
+						"id": "63d1771af7f840489247d09579c50626",
+						"keyframes": {
+							"641c671322514367833ad7218342d2c5": {
+								"id": "641c671322514367833ad7218342d2c5",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "a2",
+						"property": [
+							"receiveShadow"
+						],
+						"type": "property",
+						"weight": {
+							"cb25a1f1d5bf484a8a8a1498c297f462-blend": {
+								"id": "cb25a1f1d5bf484a8a8a1498c297f462-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"7e6b01bd219a4f448c7758fbcac7f565": {
+						"blend": "overlay",
+						"entityID": "f4efe4adc48e4ad7aefdccc1b34283c0",
+						"id": "7e6b01bd219a4f448c7758fbcac7f565",
+						"keyframes": {
+							"fee9618f61f141a7b797ed3b7962f12f": {
+								"id": "fee9618f61f141a7b797ed3b7962f12f",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "ZwV",
+						"property": [
+							"receiveShadow"
+						],
+						"type": "property",
+						"weight": {
+							"2ffe85e017794132a115e8b2a8684bf5-blend": {
+								"id": "2ffe85e017794132a115e8b2a8684bf5-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"8b6101badc6c424aaedf349d780ecac3": {
+						"blend": "overlay",
+						"entityID": "0cfc446f9586443facfe2b0388a21e59",
+						"id": "8b6101badc6c424aaedf349d780ecac3",
+						"keyframes": {
+							"4060442d8e66444f8e27fc6835e649d7": {
+								"id": "4060442d8e66444f8e27fc6835e649d7",
+								"t": 0,
+								"v": [
+									0,
+									0,
+									0
+								]
+							}
+						},
+						"order": "a3",
+						"property": [
+							"position"
+						],
+						"type": "property",
+						"weight": {
+							"e078b1bf267e4663b60edf60a81cec9b-blend": {
+								"id": "e078b1bf267e4663b60edf60a81cec9b-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"95ff5e31d254401180c1f2db46d76f97": {
+						"blend": "overlay",
+						"entityID": "f4efe4adc48e4ad7aefdccc1b34283c0",
+						"id": "95ff5e31d254401180c1f2db46d76f97",
+						"keyframes": {
+							"90b1fe7bd999489db41a0d9d70b6260c": {
+								"id": "90b1fe7bd999489db41a0d9d70b6260c",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "Zwl",
+						"property": [
+							"visible"
+						],
+						"type": "property",
+						"weight": {
+							"ee06980761a147e89ef1e8471d253c38-blend": {
+								"id": "ee06980761a147e89ef1e8471d253c38-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"97b79841f5ab40f99ad26a266a3bc31c": {
+						"blend": "overlay",
+						"entityID": "fee4292f58784138ac2fb7d2470d48dd",
+						"id": "97b79841f5ab40f99ad26a266a3bc31c",
+						"keyframes": {
+							"79487945dcb44798b5e05e42b02b10ff": {
+								"id": "79487945dcb44798b5e05e42b02b10ff",
+								"t": 0,
+								"v": false
+							}
+						},
+						"order": "Zt",
+						"property": [
+							"visible"
+						],
+						"type": "property",
+						"weight": {
+							"8d976e458ac24518a1d62d0210bb177d-blend": {
+								"id": "8d976e458ac24518a1d62d0210bb177d-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"9807a69f163a47fd90d405b16a604576": {
+						"blend": "overlay",
+						"entityID": "0cfc446f9586443facfe2b0388a21e59",
+						"id": "9807a69f163a47fd90d405b16a604576",
+						"keyframes": {
+							"f2b67b1834104015a0dbde12772a8c91": {
+								"id": "f2b67b1834104015a0dbde12772a8c91",
+								"t": 0,
+								"v": "top"
+							}
+						},
+						"order": "a7",
+						"property": [
+							"verticalAnchor"
+						],
+						"type": "property",
+						"weight": {
+							"ef5bbfbc65644652b2c7e496e1752cbd-blend": {
+								"id": "ef5bbfbc65644652b2c7e496e1752cbd-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"9a10440311794fc4a1dcfb75c9240612": {
+						"blend": "overlay",
+						"entityID": "e82e6317dd4742bd904136ffb9998668",
+						"id": "9a10440311794fc4a1dcfb75c9240612",
+						"keyframes": {
+							"01f8fb08fadc4666a8756a88f6b99a55": {
+								"id": "01f8fb08fadc4666a8756a88f6b99a55",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "Zx",
+						"property": [
+							"visible"
+						],
+						"type": "property",
+						"weight": {
+							"acb2c76f6ee84ff9924732751da65e54-blend": {
+								"id": "acb2c76f6ee84ff9924732751da65e54-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"c01f019b18f944a49e912b92558b44d0": {
+						"blend": "overlay",
+						"entityID": "0cfc446f9586443facfe2b0388a21e59",
+						"id": "c01f019b18f944a49e912b92558b44d0",
+						"keyframes": {
+							"38aee8ece64d4cbe97ef26f0c4e7d69a": {
+								"id": "38aee8ece64d4cbe97ef26f0c4e7d69a",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "a1",
+						"property": [
+							"castShadow"
+						],
+						"type": "property",
+						"weight": {
+							"2221ae3aac274ed1857be356e38d84da-blend": {
+								"id": "2221ae3aac274ed1857be356e38d84da-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"c49a66785ee143b9b547ef870b28d859": {
+						"blend": "overlay",
+						"entityID": "12838335971c49e8848aae05081a6521",
+						"id": "c49a66785ee143b9b547ef870b28d859",
+						"keyframes": {
+							"b47a960a764544f6a213c95a821e11ba": {
+								"id": "b47a960a764544f6a213c95a821e11ba",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "ZuV",
+						"property": [
+							"visible"
+						],
+						"type": "property",
+						"weight": {
+							"df3b162d3af545a9831a8f302185bb06-blend": {
+								"id": "df3b162d3af545a9831a8f302185bb06-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"cc3a7f4322aa4d3f8a7c2dacd8583a89": {
+						"blend": "overlay",
+						"entityID": "88be6f3f4baa452db0e88a30abcce316",
+						"id": "cc3a7f4322aa4d3f8a7c2dacd8583a89",
+						"keyframes": {
+							"9700bdeb57ef4787b1a19aa5b685c23e": {
+								"id": "9700bdeb57ef4787b1a19aa5b685c23e",
+								"t": 0,
+								"v": false
+							}
+						},
+						"order": "Zy",
+						"property": [
+							"visible"
+						],
+						"type": "property",
+						"weight": {
+							"57ccb13ea5d04eb28a934c0cd70f8e4f-blend": {
+								"id": "57ccb13ea5d04eb28a934c0cd70f8e4f-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"d1237a4860ea4114a457c9c59faff9f6": {
+						"blend": "overlay",
+						"entityID": "12838335971c49e8848aae05081a6521",
+						"id": "d1237a4860ea4114a457c9c59faff9f6",
+						"keyframes": {
+							"9e619cfd34774beebf19d62a3d261442": {
+								"id": "9e619cfd34774beebf19d62a3d261442",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "Zux",
+						"property": [
+							"gpuAccelerateSDF"
+						],
+						"type": "property",
+						"weight": {
+							"05e4548e959149d387b387fdd74b1226-blend": {
+								"id": "05e4548e959149d387b387fdd74b1226-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"d3c2dc056b784ea9b1b96d1c2abf5c65": {
+						"blend": "overlay",
+						"entityID": "0cfc446f9586443facfe2b0388a21e59",
+						"id": "d3c2dc056b784ea9b1b96d1c2abf5c65",
+						"keyframes": {
+							"ba0d605e4ea041ec850b38c8d09de698": {
+								"id": "ba0d605e4ea041ec850b38c8d09de698",
+								"t": 0,
+								"v": false
+							}
+						},
+						"order": "a9",
+						"property": [
+							"anchor3D"
+						],
+						"type": "property",
+						"weight": {
+							"2c45a6fac44f4810ae40210e8910643b-blend": {
+								"id": "2c45a6fac44f4810ae40210e8910643b-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"d413444bc7f1405f97f591abc4c6ef2c": {
+						"blend": "overlay",
+						"entityID": "e82e6317dd4742bd904136ffb9998668",
+						"id": "d413444bc7f1405f97f591abc4c6ef2c",
+						"keyframes": {
+							"0d6d7329cf194270a96e0c8b84bb52d1": {
+								"id": "0d6d7329cf194270a96e0c8b84bb52d1",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "Zxl",
+						"property": [
+							"castShadow"
+						],
+						"type": "property",
+						"weight": {
+							"56d13ae638af4e468c6c213a8c491c00-blend": {
+								"id": "56d13ae638af4e468c6c213a8c491c00-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"d5d503deb59a42ecaf436d2a774180c8": {
+						"blend": "overlay",
+						"entityID": "12838335971c49e8848aae05081a6521",
+						"id": "d5d503deb59a42ecaf436d2a774180c8",
+						"keyframes": {
+							"032134ac6608479f9a85173fadea2ae1": {
+								"id": "032134ac6608479f9a85173fadea2ae1",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "Zut",
+						"property": [
+							"doubleSide"
+						],
+						"type": "property",
+						"weight": {
+							"6a61f2abc3ab46af9b55fe46725e275e-blend": {
+								"id": "6a61f2abc3ab46af9b55fe46725e275e-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					}
+				},
+				"type": "state"
+			},
+			"463ea914d126442d8466a3ec01919384": {
+				"id": "463ea914d126442d8466a3ec01919384",
+				"length": 0,
+				"lengthType": "expand",
+				"name": "Towards Entrance",
+				"order": "aB",
+				"scriptName": "Towards_Entrance",
+				"tracks": {
+					"0346c51f5d2349c883024237ca56ee63": {
+						"blend": "overlay",
+						"entityID": "12838335971c49e8848aae05081a6521",
+						"id": "0346c51f5d2349c883024237ca56ee63",
+						"keyframes": {
+							"014f22eacef34d52ba9b2650f2c1c52b": {
+								"id": "014f22eacef34d52ba9b2650f2c1c52b",
+								"t": 0,
+								"v": "left"
+							}
+						},
+						"order": "Zvzz",
+						"property": [
+							"textAlign"
+						],
+						"type": "property",
+						"weight": {
+							"1fb3d033da9d43e285d1a6893deb2c48-blend": {
+								"id": "1fb3d033da9d43e285d1a6893deb2c48-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"0a73af23c76d40c59a9f3a53db637944": {
+						"blend": "overlay",
+						"entityID": "12838335971c49e8848aae05081a6521",
+						"id": "0a73af23c76d40c59a9f3a53db637944",
+						"keyframes": {
+							"c2bc380c094349f993375bff65305755": {
+								"id": "c2bc380c094349f993375bff65305755",
+								"t": 0,
+								"v": [
+									0,
+									"number"
+								]
+							}
+						},
+						"order": "Zvzzzx",
+						"property": [
+							"strokeWidth"
+						],
+						"type": "property",
+						"weight": {
+							"79eee532dcef47e3b06d2859ba0048d0-blend": {
+								"id": "79eee532dcef47e3b06d2859ba0048d0-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"0d5f09e8778f4b1ebcae6eac36f42c14": {
+						"blend": "overlay",
+						"entityID": "f4efe4adc48e4ad7aefdccc1b34283c0",
+						"id": "0d5f09e8778f4b1ebcae6eac36f42c14",
+						"keyframes": {
+							"4ea7b7f9c2be44f888499b83be723538": {
+								"id": "4ea7b7f9c2be44f888499b83be723538",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "ZxV",
+						"property": [
+							"receiveShadow"
+						],
+						"type": "property",
+						"weight": {
+							"ce0eb66eddce42c0b3a2b15a9004aa46-blend": {
+								"id": "ce0eb66eddce42c0b3a2b15a9004aa46-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"1260b1df2994468bb907baa02eef08ab": {
+						"blend": "overlay",
+						"entityID": "12838335971c49e8848aae05081a6521",
+						"id": "1260b1df2994468bb907baa02eef08ab",
+						"keyframes": {
+							"86c65783b38249628e8e7797691e1293": {
+								"id": "86c65783b38249628e8e7797691e1293",
+								"t": 0,
+								"v": [
+									0,
+									0,
+									0
+								]
+							}
+						},
+						"order": "Zvzzx",
+						"property": [
+							"outlineColor"
+						],
+						"type": "property",
+						"weight": {
+							"16212a35490a4a4cab6f714a516f342c-blend": {
+								"id": "16212a35490a4a4cab6f714a516f342c-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"19a4ff8df532439490362bc2b65a137b": {
+						"blend": "overlay",
+						"entityID": "12838335971c49e8848aae05081a6521",
+						"id": "19a4ff8df532439490362bc2b65a137b",
+						"keyframes": {
+							"6bcbc83ed1bc46039be814e6ece356a3": {
+								"id": "6bcbc83ed1bc46039be814e6ece356a3",
+								"t": 0,
+								"v": "normal"
+							}
+						},
+						"order": "Zvzx",
+						"property": [
+							"overflowWrap"
+						],
+						"type": "property",
+						"weight": {
+							"9abb0d08d40844d6acdced239fd4c907-blend": {
+								"id": "9abb0d08d40844d6acdced239fd4c907-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"26eb9a653b2b4403a8992822ef0f66e0": {
+						"blend": "overlay",
+						"entityID": "12838335971c49e8848aae05081a6521",
+						"id": "26eb9a653b2b4403a8992822ef0f66e0",
+						"keyframes": {
+							"129155c461c241eab369bbad8143a907": {
+								"id": "129155c461c241eab369bbad8143a907",
+								"t": 0,
+								"v": 1
+							}
+						},
+						"order": "ZvzzzzzV",
+						"property": [
+							"glyphGeometryDetail"
+						],
+						"type": "property",
+						"weight": {
+							"bbee7180908c41efa06e07a32722ebe7-blend": {
+								"id": "bbee7180908c41efa06e07a32722ebe7-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"3299fb00ba674daa925ccda7ee9d3c3c": {
+						"blend": "overlay",
+						"entityID": "12838335971c49e8848aae05081a6521",
+						"id": "3299fb00ba674daa925ccda7ee9d3c3c",
+						"keyframes": {
+							"eee86de947c14143be6115da7719b933": {
+								"id": "eee86de947c14143be6115da7719b933",
+								"t": 0,
+								"v": 0
+							}
+						},
+						"order": "Zvzl",
+						"property": [
+							"letterSpacing"
+						],
+						"type": "property",
+						"weight": {
+							"0ee75b2c55d14b64838bbab9c8933760-blend": {
+								"id": "0ee75b2c55d14b64838bbab9c8933760-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"3f5160da24f746d3a572b080201e472c": {
+						"blend": "overlay",
+						"entityID": "12838335971c49e8848aae05081a6521",
+						"id": "3f5160da24f746d3a572b080201e472c",
+						"keyframes": {
+							"c87b90368ecf484eb9156c4202704a0b": {
+								"id": "c87b90368ecf484eb9156c4202704a0b",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "ZvzzzzzzV",
+						"property": [
+							"receiveShadow"
+						],
+						"type": "property",
+						"weight": {
+							"96ddf7cb7994496e99677b6a5c666cfc-blend": {
+								"id": "96ddf7cb7994496e99677b6a5c666cfc-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"450e0a949d8f4a7e80e7283d77e168a0": {
+						"blend": "overlay",
+						"entityID": "12838335971c49e8848aae05081a6521",
+						"id": "450e0a949d8f4a7e80e7283d77e168a0",
+						"keyframes": {
+							"f02809602d6a448aa93aa511e8af52cb": {
+								"id": "f02809602d6a448aa93aa511e8af52cb",
+								"t": 0,
+								"v": 0
+							}
+						},
+						"order": "ZvzV",
+						"property": [
+							"curveRadius"
+						],
+						"type": "property",
+						"weight": {
+							"f45b27ca27c847c6b119388ceb9d4686-blend": {
+								"id": "f45b27ca27c847c6b119388ceb9d4686-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"4a246fd04c1643028c4da98997e40925": {
+						"blend": "overlay",
+						"entityID": "ac09dd01f62b47fba18a205b8390074e",
+						"id": "4a246fd04c1643028c4da98997e40925",
+						"keyframes": {
+							"44f4201459a04388837e2604c5876864": {
+								"id": "44f4201459a04388837e2604c5876864",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "a1",
+						"property": [
+							"receiveShadow"
+						],
+						"type": "property",
+						"weight": {
+							"8364e880b0904ff3a91de533ba42831b-blend": {
+								"id": "8364e880b0904ff3a91de533ba42831b-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"52b592ddedff454aa05e66f8804945d7": {
+						"blend": "overlay",
+						"entityID": "12838335971c49e8848aae05081a6521",
+						"id": "52b592ddedff454aa05e66f8804945d7",
+						"keyframes": {
+							"4f1ca5be12714f88b792b460da5e1263": {
+								"id": "4f1ca5be12714f88b792b460da5e1263",
+								"t": 0,
+								"v": 0
+							}
+						},
+						"order": "ZvzzV",
+						"property": [
+							"textIndent"
+						],
+						"type": "property",
+						"weight": {
+							"b2f5de417fdb4a97a705dd328bafd8a4-blend": {
+								"id": "b2f5de417fdb4a97a705dd328bafd8a4-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"52e39b15b6794860aa7e2e6158080467": {
+						"blend": "overlay",
+						"entityID": "fee4292f58784138ac2fb7d2470d48dd",
+						"id": "52e39b15b6794860aa7e2e6158080467",
+						"keyframes": {
+							"d37b3a446f9742c0b182e05a77d43c0f": {
+								"id": "d37b3a446f9742c0b182e05a77d43c0f",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "Zzx",
+						"property": [
+							"enabled"
+						],
+						"type": "property",
+						"weight": {
+							"1a70413bde724b09ab78ea0bad703b06-blend": {
+								"id": "1a70413bde724b09ab78ea0bad703b06-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"53a722a2adbf4579b98f54d35ab02e3d": {
+						"blend": "overlay",
+						"entityID": "fee4292f58784138ac2fb7d2470d48dd",
+						"id": "53a722a2adbf4579b98f54d35ab02e3d",
+						"keyframes": {
+							"031f0945ae7e4bb4b3101cb46cec7e13": {
+								"id": "031f0945ae7e4bb4b3101cb46cec7e13",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "ZzV",
+						"property": [
+							"visible"
+						],
+						"type": "property",
+						"weight": {
+							"19ab4490b22f4be99b50bdd1835ec84d-blend": {
+								"id": "19ab4490b22f4be99b50bdd1835ec84d-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"542718af57874c50a36526ac6dd1b871": {
+						"blend": "overlay",
+						"entityID": "8ef488a2f704467e93bcb6279b8fe1a1",
+						"id": "542718af57874c50a36526ac6dd1b871",
+						"keyframes": {
+							"81dddaacf1124398af47ce914295ba1b": {
+								"id": "81dddaacf1124398af47ce914295ba1b",
+								"t": 0,
+								"v": false
+							}
+						},
+						"order": "Zs",
+						"property": [
+							"visible"
+						],
+						"type": "property",
+						"weight": {
+							"df4ea4d8f9424613be895ba524f7cfc4-blend": {
+								"id": "df4ea4d8f9424613be895ba524f7cfc4-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"56d13b2850b141f4b5e277dda20217c3": {
+						"blend": "overlay",
+						"entityID": "88be6f3f4baa452db0e88a30abcce316",
+						"id": "56d13b2850b141f4b5e277dda20217c3",
+						"keyframes": {
+							"16dc3f285362473781d7c0b52a99529d": {
+								"id": "16dc3f285362473781d7c0b52a99529d",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "Zu",
+						"property": [
+							"visible"
+						],
+						"type": "property",
+						"weight": {
+							"fd720ddc1eb7472da9707adcdc571c56-blend": {
+								"id": "fd720ddc1eb7472da9707adcdc571c56-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"582124b736ad4b45a14c5c3485b9e278": {
+						"blend": "overlay",
+						"entityID": "f4efe4adc48e4ad7aefdccc1b34283c0",
+						"id": "582124b736ad4b45a14c5c3485b9e278",
+						"keyframes": {
+							"2ffff09783c1417c90e0cec16ff0f1d9": {
+								"id": "2ffff09783c1417c90e0cec16ff0f1d9",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "Zxl",
+						"property": [
+							"visible"
+						],
+						"type": "property",
+						"weight": {
+							"50d102f8ade3442e9764f15565540969-blend": {
+								"id": "50d102f8ade3442e9764f15565540969-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"652fc62175f7404bb140972afd4c570c": {
+						"blend": "overlay",
+						"entityID": "12838335971c49e8848aae05081a6521",
+						"id": "652fc62175f7404bb140972afd4c570c",
+						"keyframes": {
+							"87809b93de0f46cf875101607136cd92": {
+								"id": "87809b93de0f46cf875101607136cd92",
+								"t": 0,
+								"v": 1
+							}
+						},
+						"order": "ZvzzzzV",
+						"property": [
+							"strokeOpacity"
+						],
+						"type": "property",
+						"weight": {
+							"a6f479806394476bb19ef936925d4bf8-blend": {
+								"id": "a6f479806394476bb19ef936925d4bf8-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"681837f1b135490195315ad93b11597e": {
+						"blend": "overlay",
+						"entityID": "12838335971c49e8848aae05081a6521",
+						"id": "681837f1b135490195315ad93b11597e",
+						"keyframes": {
+							"40696302fffa40b5a0e270c1c092d23d": {
+								"id": "40696302fffa40b5a0e270c1c092d23d",
+								"t": 0,
+								"v": [
+									0,
+									"number"
+								]
+							}
+						},
+						"order": "Zvzzzl",
+						"property": [
+							"outlineOffsetX"
+						],
+						"type": "property",
+						"weight": {
+							"4d120d9b72634ddeaf2eef77e806b849-blend": {
+								"id": "4d120d9b72634ddeaf2eef77e806b849-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"749aceb2d8d645a4b1bfd8073e7dfeeb": {
+						"blend": "overlay",
+						"entityID": "fee4292f58784138ac2fb7d2470d48dd",
+						"id": "749aceb2d8d645a4b1bfd8073e7dfeeb",
+						"keyframes": {
+							"10f9407c781444a6b0bd87b78ad9a61b": {
+								"id": "10f9407c781444a6b0bd87b78ad9a61b",
+								"t": 0,
+								"v": "f4efe4adc48e4ad7aefdccc1b34283c0"
+							}
+						},
+						"order": "Zz",
+						"property": [
+							"target"
+						],
+						"type": "property",
+						"weight": {
+							"fa58531d8be248e6ad2feec0bfebcf27-blend": {
+								"id": "fa58531d8be248e6ad2feec0bfebcf27-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"7b50d184c2bb46cea97312e597e21f29": {
+						"blend": "overlay",
+						"entityID": "12838335971c49e8848aae05081a6521",
+						"id": "7b50d184c2bb46cea97312e597e21f29",
+						"keyframes": {
+							"1403009ad11c466a8c570117b7ce7aa6": {
+								"id": "1403009ad11c466a8c570117b7ce7aa6",
+								"t": 0,
+								"v": "center"
+							}
+						},
+						"order": "Zvt",
+						"property": [
+							"anchorX"
+						],
+						"type": "property",
+						"weight": {
+							"af6b7bc2b32748c7bdb3cb725427cbf3-blend": {
+								"id": "af6b7bc2b32748c7bdb3cb725427cbf3-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"831dc250ae464fefa5ec14dd90437032": {
+						"blend": "overlay",
+						"entityID": "12838335971c49e8848aae05081a6521",
+						"id": "831dc250ae464fefa5ec14dd90437032",
+						"keyframes": {
+							"4ece5f2a071e4ce8837f8d7401443b4d": {
+								"id": "4ece5f2a071e4ce8837f8d7401443b4d",
+								"t": 0,
+								"v": [
+									0.8,
+									0.8,
+									0.8
+								]
+							}
+						},
+						"order": "Zvzzzz",
+						"property": [
+							"strokeColor"
+						],
+						"type": "property",
+						"weight": {
+							"72aba8210f9a448cb9be35ed22f09e39-blend": {
+								"id": "72aba8210f9a448cb9be35ed22f09e39-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"8382c924783f40d393fc183cb001dab3": {
+						"blend": "overlay",
+						"entityID": "fee4292f58784138ac2fb7d2470d48dd",
+						"id": "8382c924783f40d393fc183cb001dab3",
+						"keyframes": {
+							"499d7dd715d646ebbb40a6aef678a01a": {
+								"id": "499d7dd715d646ebbb40a6aef678a01a",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "Zzt",
+						"property": [
+							"receiveShadow"
+						],
+						"type": "property",
+						"weight": {
+							"ca289712f1394842ae8057761d4c6fe9-blend": {
+								"id": "ca289712f1394842ae8057761d4c6fe9-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"8aec3cf56bd94143a27932c238945efa": {
+						"blend": "overlay",
+						"entityID": "12838335971c49e8848aae05081a6521",
+						"id": "8aec3cf56bd94143a27932c238945efa",
+						"keyframes": {
+							"0b9af40bf5404830aa9c82ed62a3aebe": {
+								"id": "0b9af40bf5404830aa9c82ed62a3aebe",
+								"t": 0,
+								"v": 1
+							}
+						},
+						"order": "ZvzzzV",
+						"property": [
+							"outlineOpacity"
+						],
+						"type": "property",
+						"weight": {
+							"c11fe46e96f04d80a2a65cc71c5f2e65-blend": {
+								"id": "c11fe46e96f04d80a2a65cc71c5f2e65-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"8ce73e7125b545e7a92444bc67f5c198": {
+						"blend": "overlay",
+						"entityID": "12838335971c49e8848aae05081a6521",
+						"id": "8ce73e7125b545e7a92444bc67f5c198",
+						"keyframes": {
+							"1f4cd31c26f94ecbb7970d642729efeb": {
+								"id": "1f4cd31c26f94ecbb7970d642729efeb",
+								"t": 0,
+								"v": 0.1
+							}
+						},
+						"order": "ZvV",
+						"property": [
+							"fontSize"
+						],
+						"type": "property",
+						"weight": {
+							"c4d5f1061abf4d4c88eef9d62eeafa32-blend": {
+								"id": "c4d5f1061abf4d4c88eef9d62eeafa32-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"95e99af171a843bcbfc6b7265edd7e03": {
+						"blend": "overlay",
+						"entityID": "e82e6317dd4742bd904136ffb9998668",
+						"id": "95e99af171a843bcbfc6b7265edd7e03",
+						"keyframes": {
+							"b392c4df88164b4e992cc5cc3d7e3903": {
+								"id": "b392c4df88164b4e992cc5cc3d7e3903",
+								"t": 0,
+								"v": false
+							}
+						},
+						"order": "Zt",
+						"property": [
+							"visible"
+						],
+						"type": "property",
+						"weight": {
+							"fc7e3bd5790b4d6e8b9b212ca208f8c4-blend": {
+								"id": "fc7e3bd5790b4d6e8b9b212ca208f8c4-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"964ac82a55dd4e4793423b03c93d7b39": {
+						"blend": "overlay",
+						"entityID": "12838335971c49e8848aae05081a6521",
+						"id": "964ac82a55dd4e4793423b03c93d7b39",
+						"keyframes": {
+							"ac8a4d9ac38540ebb2c7e656bf345c83": {
+								"id": "ac8a4d9ac38540ebb2c7e656bf345c83",
+								"t": 0,
+								"v": "Entrance / Exit"
+							}
+						},
+						"order": "Zv",
+						"property": [
+							"text"
+						],
+						"type": "property",
+						"weight": {
+							"df2cc124ce5a43bc95996a41f33854a4-blend": {
+								"id": "df2cc124ce5a43bc95996a41f33854a4-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"9fb94db85da240e6b664f6bdea333a42": {
+						"blend": "overlay",
+						"entityID": "12838335971c49e8848aae05081a6521",
+						"id": "9fb94db85da240e6b664f6bdea333a42",
+						"keyframes": {
+							"df3d6ff636fb4939b795fd33df1c86c4": {
+								"id": "df3d6ff636fb4939b795fd33df1c86c4",
+								"t": 0,
+								"v": [
+									-100,
+									-100,
+									100,
+									100
+								]
+							}
+						},
+						"order": "Zvzzzzz",
+						"property": [
+							"clipRect"
+						],
+						"type": "property",
+						"weight": {
+							"8ac0410849024d068229d45ab575b2c8-blend": {
+								"id": "8ac0410849024d068229d45ab575b2c8-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"a20b68c165a348f98b87741b05b655ee": {
+						"blend": "overlay",
+						"entityID": "12838335971c49e8848aae05081a6521",
+						"id": "a20b68c165a348f98b87741b05b655ee",
+						"keyframes": {
+							"b9ba4c9d84d34db5972de8c4ed62e3fc": {
+								"id": "b9ba4c9d84d34db5972de8c4ed62e3fc",
+								"t": 0,
+								"v": "'+x+y'"
+							}
+						},
+						"order": "Zvzzzzx",
+						"property": [
+							"orientation"
+						],
+						"type": "property",
+						"weight": {
+							"4177f71b1c174ab7a10377077f4ae2ae-blend": {
+								"id": "4177f71b1c174ab7a10377077f4ae2ae-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"a8c64adadf5541d78b5e2352eb8ed564": {
+						"blend": "overlay",
+						"entityID": "fee4292f58784138ac2fb7d2470d48dd",
+						"id": "a8c64adadf5541d78b5e2352eb8ed564",
+						"keyframes": {
+							"fade4b4df1b7470389c23d8ee78a6bd6": {
+								"id": "fade4b4df1b7470389c23d8ee78a6bd6",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "Zzl",
+						"property": [
+							"castShadow"
+						],
+						"type": "property",
+						"weight": {
+							"bd78c50250d94ffab0d2fe729a6676a1-blend": {
+								"id": "bd78c50250d94ffab0d2fe729a6676a1-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"a91f930635e3454cb88f8b507e81ddd7": {
+						"blend": "overlay",
+						"entityID": "ac09dd01f62b47fba18a205b8390074e",
+						"id": "a91f930635e3454cb88f8b507e81ddd7",
+						"keyframes": {
+							"c80490d4d082468c9f809d36c476178c": {
+								"id": "c80490d4d082468c9f809d36c476178c",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "a2",
+						"property": [
+							"castShadow"
+						],
+						"type": "property",
+						"weight": {
+							"f49615dc15ec41efbde77f6b96d8fd05-blend": {
+								"id": "f49615dc15ec41efbde77f6b96d8fd05-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"aa91d521d9cc49219f6498f7f0a81cdc": {
+						"blend": "overlay",
+						"entityID": "12838335971c49e8848aae05081a6521",
+						"id": "aa91d521d9cc49219f6498f7f0a81cdc",
+						"keyframes": {
+							"a2a90af4037049f7ae2b9a0365ec000c": {
+								"id": "a2a90af4037049f7ae2b9a0365ec000c",
+								"t": 0,
+								"v": [
+									10,
+									"number"
+								]
+							}
+						},
+						"order": "Zvzzt",
+						"property": [
+							"outlineWidth"
+						],
+						"type": "property",
+						"weight": {
+							"aaa05bab0b7d4798a0e36041d2ca7703-blend": {
+								"id": "aaa05bab0b7d4798a0e36041d2ca7703-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"aa96c1e5a9414cb197539fa086022a7b": {
+						"blend": "overlay",
+						"entityID": "12838335971c49e8848aae05081a6521",
+						"id": "aa96c1e5a9414cb197539fa086022a7b",
+						"keyframes": {
+							"59fc06f5bfc1455ca34afcdb75eec300": {
+								"id": "59fc06f5bfc1455ca34afcdb75eec300",
+								"t": 0,
+								"v": [
+									0.005,
+									"number"
+								]
+							}
+						},
+						"order": "Zvzzz",
+						"property": [
+							"outlineBlur"
+						],
+						"type": "property",
+						"weight": {
+							"5ee39b4fd0544a19a3ec9f4cb6578ba1-blend": {
+								"id": "5ee39b4fd0544a19a3ec9f4cb6578ba1-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"b41347741aab48a9b292a1840d34165e": {
+						"blend": "overlay",
+						"entityID": "12838335971c49e8848aae05081a6521",
+						"id": "b41347741aab48a9b292a1840d34165e",
+						"keyframes": {
+							"166d6e83ec044228a4eac5ab139c83af": {
+								"id": "166d6e83ec044228a4eac5ab139c83af",
+								"t": 0,
+								"v": 64
+							}
+						},
+						"order": "Zvzzzzzl",
+						"property": [
+							"sdfGlyphSize"
+						],
+						"type": "property",
+						"weight": {
+							"953f346831a54900b7eefff270667f42-blend": {
+								"id": "953f346831a54900b7eefff270667f42-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"bcc42acaf4c947c7a8648324c143873f": {
+						"blend": "overlay",
+						"entityID": "f4efe4adc48e4ad7aefdccc1b34283c0",
+						"id": "bcc42acaf4c947c7a8648324c143873f",
+						"keyframes": {
+							"ae888142c5b6438ab08e70a8441e8494": {
+								"id": "ae888142c5b6438ab08e70a8441e8494",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "Zxt",
+						"property": [
+							"enabled"
+						],
+						"type": "property",
+						"weight": {
+							"8f1139985943439eb52d046ee6122aa5-blend": {
+								"id": "8f1139985943439eb52d046ee6122aa5-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"c2ae62c4ef454960a91b574439dd2b3a": {
+						"blend": "overlay",
+						"entityID": "f4efe4adc48e4ad7aefdccc1b34283c0",
+						"id": "c2ae62c4ef454960a91b574439dd2b3a",
+						"keyframes": {
+							"dadad62e551d4457bfbd5e25bf244c56": {
+								"id": "dadad62e551d4457bfbd5e25bf244c56",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "Zx",
+						"property": [
+							"castShadow"
+						],
+						"type": "property",
+						"weight": {
+							"24824913aa6a45439af33cbedadafc5e-blend": {
+								"id": "24824913aa6a45439af33cbedadafc5e-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"c429a671457848afab5df31934eb2cf8": {
+						"blend": "overlay",
+						"entityID": "12838335971c49e8848aae05081a6521",
+						"id": "c429a671457848afab5df31934eb2cf8",
+						"keyframes": {
+							"1d70da92f1684161acc3b7ef12f5ff22": {
+								"id": "1d70da92f1684161acc3b7ef12f5ff22",
+								"t": 0,
+								"v": "middle"
+							}
+						},
+						"order": "Zvx",
+						"property": [
+							"anchorY"
+						],
+						"type": "property",
+						"weight": {
+							"a45c75a8dc4947859507f25d8e629daf-blend": {
+								"id": "a45c75a8dc4947859507f25d8e629daf-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"c7344094fbe44c6f881c64f2d89cba0e": {
+						"blend": "overlay",
+						"entityID": "ac09dd01f62b47fba18a205b8390074e",
+						"id": "c7344094fbe44c6f881c64f2d89cba0e",
+						"keyframes": {
+							"c447b1189e304454825b5af46e9caa7c": {
+								"id": "c447b1189e304454825b5af46e9caa7c",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "a0",
+						"property": [
+							"visible"
+						],
+						"type": "property",
+						"weight": {
+							"17e42d37366b48d08b95d3b4a447b5e3-blend": {
+								"id": "17e42d37366b48d08b95d3b4a447b5e3-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"cb6b1879712c4127829c177b58cd1ed8": {
+						"blend": "overlay",
+						"entityID": "12838335971c49e8848aae05081a6521",
+						"id": "cb6b1879712c4127829c177b58cd1ed8",
+						"keyframes": {
+							"c7cb5830e09d4e92974b0440ba5543d5": {
+								"id": "c7cb5830e09d4e92974b0440ba5543d5",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "Zvzzzzzx",
+						"property": [
+							"doubleSide"
+						],
+						"type": "property",
+						"weight": {
+							"c30213cde33242129da1821c8c0bd7a9-blend": {
+								"id": "c30213cde33242129da1821c8c0bd7a9-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"d1e9d979c3b745b291488c50b2cb3768": {
+						"blend": "overlay",
+						"entityID": "12838335971c49e8848aae05081a6521",
+						"id": "d1e9d979c3b745b291488c50b2cb3768",
+						"keyframes": {
+							"0fc58a62c6a944ae80586fbb31cb30fe": {
+								"id": "0fc58a62c6a944ae80586fbb31cb30fe",
+								"t": 0,
+								"v": "ltf"
+							}
+						},
+						"order": "Zvz",
+						"property": [
+							"direction"
+						],
+						"type": "property",
+						"weight": {
+							"0ac85fbb0d8a4d61a5cccd5ccf07607f-blend": {
+								"id": "0ac85fbb0d8a4d61a5cccd5ccf07607f-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"d4b24a6ca6914e3c98d32d07270f00af": {
+						"blend": "overlay",
+						"entityID": "12838335971c49e8848aae05081a6521",
+						"id": "d4b24a6ca6914e3c98d32d07270f00af",
+						"keyframes": {
+							"21d3dc0655c64d3cb6c326f08c082cbf": {
+								"id": "21d3dc0655c64d3cb6c326f08c082cbf",
+								"t": 0,
+								"v": 0
+							}
+						},
+						"order": "Zvzt",
+						"property": [
+							"lineHeight"
+						],
+						"type": "property",
+						"weight": {
+							"2404ca52da074ce08f56888f9931aaa2-blend": {
+								"id": "2404ca52da074ce08f56888f9931aaa2-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"dbc7e63a8d3a48c1a8455ed3814e5a5e": {
+						"blend": "overlay",
+						"entityID": "12838335971c49e8848aae05081a6521",
+						"id": "dbc7e63a8d3a48c1a8455ed3814e5a5e",
+						"keyframes": {
+							"fe0a4f30376841dca0973960d05a9242": {
+								"id": "fe0a4f30376841dca0973960d05a9242",
+								"t": 0,
+								"v": 0
+							}
+						},
+						"order": "Zvzzzzt",
+						"property": [
+							"depthOffset"
+						],
+						"type": "property",
+						"weight": {
+							"04f94fc3d48b4f86a641b13d61750672-blend": {
+								"id": "04f94fc3d48b4f86a641b13d61750672-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"dbe8dcbc80c94b65abbffce210267842": {
+						"blend": "overlay",
+						"entityID": "12838335971c49e8848aae05081a6521",
+						"id": "dbe8dcbc80c94b65abbffce210267842",
+						"keyframes": {
+							"90cd676182d74e24a6ff00d0ccaee8a9": {
+								"id": "90cd676182d74e24a6ff00d0ccaee8a9",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "Zvzzzzzzl",
+						"property": [
+							"castShadow"
+						],
+						"type": "property",
+						"weight": {
+							"18eb09e121a44e8ba90745e1c85a13ca-blend": {
+								"id": "18eb09e121a44e8ba90745e1c85a13ca-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"e2315c7df1224f26a7eebe9bc43ac5f5": {
+						"blend": "overlay",
+						"entityID": "12838335971c49e8848aae05081a6521",
+						"id": "e2315c7df1224f26a7eebe9bc43ac5f5",
+						"keyframes": {
+							"ebee3803a158406b814d7f9fd8ede11f": {
+								"id": "ebee3803a158406b814d7f9fd8ede11f",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "Zvzzzzzz",
+						"property": [
+							"visible"
+						],
+						"type": "property",
+						"weight": {
+							"e66aa54a52e045cd96deb9246baf602b-blend": {
+								"id": "e66aa54a52e045cd96deb9246baf602b-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"ef491faaf9b743e78166719b6fbc32a7": {
+						"blend": "overlay",
+						"entityID": "12838335971c49e8848aae05081a6521",
+						"id": "ef491faaf9b743e78166719b6fbc32a7",
+						"keyframes": {
+							"6d271eaaec8e4cbaa5acea852296f5f4": {
+								"id": "6d271eaaec8e4cbaa5acea852296f5f4",
+								"t": 0,
+								"v": [
+									0,
+									"number"
+								]
+							}
+						},
+						"order": "Zvzzzt",
+						"property": [
+							"outlineOffsetY"
+						],
+						"type": "property",
+						"weight": {
+							"4fce4b06f8f84a21ab66cde37a52fcae-blend": {
+								"id": "4fce4b06f8f84a21ab66cde37a52fcae-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"f1df0e520c6e46d2996fc666cc87b48a": {
+						"blend": "overlay",
+						"entityID": "12838335971c49e8848aae05081a6521",
+						"id": "f1df0e520c6e46d2996fc666cc87b48a",
+						"keyframes": {
+							"f47854fd9af64bb9a0bc8b8f8713671c": {
+								"id": "f47854fd9af64bb9a0bc8b8f8713671c",
+								"t": 0,
+								"v": [
+									1,
+									1,
+									1
+								]
+							}
+						},
+						"order": "Zvl",
+						"property": [
+							"color"
+						],
+						"type": "property",
+						"weight": {
+							"d56e3d33b23f4631a3b1952b05ab40a3-blend": {
+								"id": "d56e3d33b23f4631a3b1952b05ab40a3-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"f31b2526c8a04cbba24ce9f1f61345ee": {
+						"blend": "overlay",
+						"entityID": "12838335971c49e8848aae05081a6521",
+						"id": "f31b2526c8a04cbba24ce9f1f61345ee",
+						"keyframes": {
+							"ee603463ae0341d6907659523fbd35c1": {
+								"id": "ee603463ae0341d6907659523fbd35c1",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "Zvzzzzzt",
+						"property": [
+							"gpuAccelerateSDF"
+						],
+						"type": "property",
+						"weight": {
+							"52c83030dc324cdb9d2150a76566aad2-blend": {
+								"id": "52c83030dc324cdb9d2150a76566aad2-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"f31d7e2df0be4c7e8f0c606d187a7907": {
+						"blend": "overlay",
+						"entityID": "12838335971c49e8848aae05081a6521",
+						"id": "f31d7e2df0be4c7e8f0c606d187a7907",
+						"keyframes": {
+							"6a960b24b5cd46399e4e65de121c441b": {
+								"id": "6a960b24b5cd46399e4e65de121c441b",
+								"t": 0,
+								"v": "normal"
+							}
+						},
+						"order": "Zvzzl",
+						"property": [
+							"whiteSpace"
+						],
+						"type": "property",
+						"weight": {
+							"8a83dd3b9e1e4879baa270100b785275-blend": {
+								"id": "8a83dd3b9e1e4879baa270100b785275-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"f6959411254343dba71743a08a4e4732": {
+						"blend": "overlay",
+						"entityID": "ac09dd01f62b47fba18a205b8390074e",
+						"id": "f6959411254343dba71743a08a4e4732",
+						"keyframes": {
+							"b5a9e3cc3cc44604bd82c66361eee957": {
+								"id": "b5a9e3cc3cc44604bd82c66361eee957",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "a3",
+						"property": [
+							"enabled"
+						],
+						"type": "property",
+						"weight": {
+							"3e8a3c4c147f4d289bbe2d2f632af40d-blend": {
+								"id": "3e8a3c4c147f4d289bbe2d2f632af40d-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"f934dd9405414535bacb57ed2f633922": {
+						"blend": "overlay",
+						"entityID": "12838335971c49e8848aae05081a6521",
+						"id": "f934dd9405414535bacb57ed2f633922",
+						"keyframes": {
+							"a7fd0d79ad0f44578feb2946b8bd8422": {
+								"id": "a7fd0d79ad0f44578feb2946b8bd8422",
+								"t": 0,
+								"v": 1
+							}
+						},
+						"order": "Zvzzzzl",
+						"property": [
+							"fillOpacity"
+						],
+						"type": "property",
+						"weight": {
+							"cb11b30f48c24db8bf4fe68491501236-blend": {
+								"id": "cb11b30f48c24db8bf4fe68491501236-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					}
+				},
+				"type": "state"
+			},
+			"58452df5c02c4b62a0a2a92877322f6e": {
+				"id": "58452df5c02c4b62a0a2a92877322f6e",
+				"length": 0,
+				"lengthType": "expand",
+				"name": "TutorialToggle",
+				"order": "aA",
+				"scriptName": "TutorialToggle",
+				"tracks": {
+					"0976f4061bd148999e4f6288a042143e": {
+						"blend": "overlay",
+						"entityID": "d0002a35eb784155933fe401c955fd58",
+						"id": "0976f4061bd148999e4f6288a042143e",
+						"keyframes": {
+							"5c0f4c15d237463c8c95333b860b665d": {
+								"id": "5c0f4c15d237463c8c95333b860b665d",
+								"t": 0,
+								"v": "row"
+							}
+						},
+						"order": "a3",
+						"property": [
+							"flexDirection"
+						],
+						"type": "property",
+						"weight": {
+							"4b71fa0205254a3d8a676d970a3824e6-blend": {
+								"id": "4b71fa0205254a3d8a676d970a3824e6-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"3196b388594b4a89aa0043087cd5e9b9": {
+						"blend": "overlay",
+						"entityID": "66748546087c42cc8b97be8ff057ea51",
+						"id": "3196b388594b4a89aa0043087cd5e9b9",
+						"keyframes": {
+							"34c67db00e814c329a373af362266221": {
+								"id": "34c67db00e814c329a373af362266221",
+								"t": 0,
+								"v": "none"
+							}
+						},
+						"order": "Zz",
+						"property": [
+							"display"
+						],
+						"type": "property",
+						"weight": {
+							"b140dccbe79d4f3f9cf7cd30f0b681ad-blend": {
+								"id": "b140dccbe79d4f3f9cf7cd30f0b681ad-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"45bb2d0a440e46c697709a26bffb3f0e": {
+						"blend": "overlay",
+						"entityID": "d0002a35eb784155933fe401c955fd58",
+						"id": "45bb2d0a440e46c697709a26bffb3f0e",
+						"keyframes": {
+							"60716eef96664ddebb133daa59478fd6": {
+								"id": "60716eef96664ddebb133daa59478fd6",
+								"t": 0,
+								"v": "Select a Point of Interest from the dropdown below to start the navigation. \n\nAlso, you can click on 'Explore' to view all Points of Interest around you."
+							}
+						},
+						"order": "a1",
+						"property": [
+							"innerText"
+						],
+						"type": "property",
+						"weight": {
+							"910a9c73778244649a8984c288b5190d-blend": {
+								"id": "910a9c73778244649a8984c288b5190d-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"4a3e48d453644f0087f5b87f4b967038": {
+						"blend": "overlay",
+						"entityID": "d0002a35eb784155933fe401c955fd58",
+						"id": "4a3e48d453644f0087f5b87f4b967038",
+						"keyframes": {
+							"0d6d604fb0ee42e983a4b621d3ceaf93": {
+								"id": "0d6d604fb0ee42e983a4b621d3ceaf93",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "a2",
+						"property": [
+							"enabled"
+						],
+						"type": "property",
+						"weight": {
+							"3d07dfaae4024957a1993e44af23c2e1-blend": {
+								"id": "3d07dfaae4024957a1993e44af23c2e1-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"790a533d97184a3d96fa6c0785b9c6b7": {
+						"blend": "overlay",
+						"entityID": "d0002a35eb784155933fe401c955fd58",
+						"id": "790a533d97184a3d96fa6c0785b9c6b7",
+						"keyframes": {
+							"2bea3c33cfcf4267a78adb2418cc8c0f": {
+								"id": "2bea3c33cfcf4267a78adb2418cc8c0f",
+								"t": 0,
+								"v": "none"
+							}
+						},
+						"order": "a4",
+						"property": [
+							"display"
+						],
+						"type": "property",
+						"weight": {
+							"295abc6a88514ad7957246d1c4918825-blend": {
+								"id": "295abc6a88514ad7957246d1c4918825-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"f5bf826dee1e497ca65038e0288e9412": {
+						"blend": "overlay",
+						"entityID": "d0002a35eb784155933fe401c955fd58",
+						"id": "f5bf826dee1e497ca65038e0288e9412",
+						"keyframes": {
+							"02814816cfb3459ea2f061d7f4278266": {
+								"id": "02814816cfb3459ea2f061d7f4278266",
+								"t": 0,
+								"v": "tutorialText"
+							}
+						},
+						"order": "a0",
+						"property": [
+							"id"
+						],
+						"type": "property",
+						"weight": {
+							"d3ab7ccb6d404ec4b67fa099c92a1d56-blend": {
+								"id": "d3ab7ccb6d404ec4b67fa099c92a1d56-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					}
+				},
+				"type": "state"
+			},
+			"b474239eb82f41b3bb7aa5f5ab7382fe": {
+				"id": "b474239eb82f41b3bb7aa5f5ab7382fe",
+				"length": 0,
+				"lengthType": "auto",
+				"name": "Hidden",
+				"order": "a3",
+				"scriptName": "Hidden",
+				"tracks": {
+				},
+				"type": "state"
+			},
+			"b7cd899576524ad0842f7ac8392a84a9": {
+				"id": "b7cd899576524ad0842f7ac8392a84a9",
+				"length": 0,
+				"lengthType": "auto",
+				"name": "Placement",
+				"order": "a6",
+				"scriptName": "Placement",
+				"tracks": {
+				},
+				"type": "state"
+			},
+			"cfea3ca349af4339999f728f2030b9cf": {
+				"id": "cfea3ca349af4339999f728f2030b9cf",
+				"length": 0,
+				"lengthType": "expand",
+				"name": "Towards Conference",
+				"order": "a0",
+				"scriptName": "Towards_Conference0",
+				"tracks": {
+					"2004291a1ad5403598f64b06862c1c73": {
+						"blend": "overlay",
+						"entityID": "e82e6317dd4742bd904136ffb9998668",
+						"id": "2004291a1ad5403598f64b06862c1c73",
+						"keyframes": {
+							"a3b466a35b5945e7ab7037fbd775aa20": {
+								"id": "a3b466a35b5945e7ab7037fbd775aa20",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "ZuV",
+						"property": [
+							"receiveShadow"
+						],
+						"type": "property",
+						"weight": {
+							"dbac99fab19947059da5b41322aad2df-blend": {
+								"id": "dbac99fab19947059da5b41322aad2df-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"4d1ac036601e44deb48b6a15c940de34": {
+						"blend": "overlay",
+						"entityID": "fee4292f58784138ac2fb7d2470d48dd",
+						"id": "4d1ac036601e44deb48b6a15c940de34",
+						"keyframes": {
+							"73fea3bbb43e4ed2b5d77e7a967057a4": {
+								"id": "73fea3bbb43e4ed2b5d77e7a967057a4",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "Zzx",
+						"property": [
+							"enabled"
+						],
+						"type": "property",
+						"weight": {
+							"136bc3868e1343d0b8eb6c4a47b35666": {
+								"id": "136bc3868e1343d0b8eb6c4a47b35666",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"5369f904ebeb436e80ab30499493fab3": {
+						"blend": "overlay",
+						"entityID": "88be6f3f4baa452db0e88a30abcce316",
+						"id": "5369f904ebeb436e80ab30499493fab3",
+						"keyframes": {
+							"e73e6e9507ed4978ac08fbb8df5f84c7": {
+								"id": "e73e6e9507ed4978ac08fbb8df5f84c7",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "Zt",
+						"property": [
+							"visible"
+						],
+						"type": "property",
+						"weight": {
+							"c6b99d56acd14ca0850e976c696b0078-blend": {
+								"id": "c6b99d56acd14ca0850e976c696b0078-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"56d2cb9ffb2f4b1492c072c9704deb35": {
+						"blend": "overlay",
+						"entityID": "ac09dd01f62b47fba18a205b8390074e",
+						"id": "56d2cb9ffb2f4b1492c072c9704deb35",
+						"keyframes": {
+							"ae68a23005f8449093981334257207f2": {
+								"id": "ae68a23005f8449093981334257207f2",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "a1",
+						"property": [
+							"receiveShadow"
+						],
+						"type": "property",
+						"weight": {
+							"d9716fbef937410aa076b2c18e7ecb92": {
+								"id": "d9716fbef937410aa076b2c18e7ecb92",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"69ae81f8446c4cb794508fcb697c3607": {
+						"blend": "overlay",
+						"entityID": "8ef488a2f704467e93bcb6279b8fe1a1",
+						"id": "69ae81f8446c4cb794508fcb697c3607",
+						"keyframes": {
+							"5d99075602b8405e82fab04882202e9f": {
+								"id": "5d99075602b8405e82fab04882202e9f",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "Zv",
+						"property": [
+							"visible"
+						],
+						"type": "property",
+						"weight": {
+							"4bca71c81862465a8b592d201324f4e8-blend": {
+								"id": "4bca71c81862465a8b592d201324f4e8-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"738597348f3c474780e99eb069dc079a": {
+						"blend": "overlay",
+						"entityID": "e82e6317dd4742bd904136ffb9998668",
+						"id": "738597348f3c474780e99eb069dc079a",
+						"keyframes": {
+							"bad5cb998abc46a1afb3935ba7059cb6": {
+								"id": "bad5cb998abc46a1afb3935ba7059cb6",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "Zul",
+						"property": [
+							"visible"
+						],
+						"type": "property",
+						"weight": {
+							"26dc3ebea58e4776b3f2e3fe238c17d2-blend": {
+								"id": "26dc3ebea58e4776b3f2e3fe238c17d2-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"7ef27b5f1cad48dea2c1280a8c661a67": {
+						"blend": "overlay",
+						"entityID": "fee4292f58784138ac2fb7d2470d48dd",
+						"id": "7ef27b5f1cad48dea2c1280a8c661a67",
+						"keyframes": {
+							"edd840b327ca49af9922d8fd0dd8c544": {
+								"id": "edd840b327ca49af9922d8fd0dd8c544",
+								"t": 0,
+								"v": "e82e6317dd4742bd904136ffb9998668"
+							}
+						},
+						"order": "Zz",
+						"property": [
+							"target"
+						],
+						"type": "property",
+						"weight": {
+							"128f2d3d728d4730afb03e9f40ba12c6": {
+								"id": "128f2d3d728d4730afb03e9f40ba12c6",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"85163630568042688adea289cabf74b4": {
+						"blend": "overlay",
+						"entityID": "fee4292f58784138ac2fb7d2470d48dd",
+						"id": "85163630568042688adea289cabf74b4",
+						"keyframes": {
+							"42b1c08613e04f31beea3c24d991f1e5": {
+								"id": "42b1c08613e04f31beea3c24d991f1e5",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "Zzl",
+						"property": [
+							"castShadow"
+						],
+						"type": "property",
+						"weight": {
+							"c3ba6e80a9c24e24a85a6c01dcf1c918": {
+								"id": "c3ba6e80a9c24e24a85a6c01dcf1c918",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"8a05d62d2d594fbc9876248a4dac5584": {
+						"blend": "overlay",
+						"entityID": "e82e6317dd4742bd904136ffb9998668",
+						"id": "8a05d62d2d594fbc9876248a4dac5584",
+						"keyframes": {
+							"6127e6228c864b499e892688fb2f74d6": {
+								"id": "6127e6228c864b499e892688fb2f74d6",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "Zut",
+						"property": [
+							"enabled"
+						],
+						"type": "property",
+						"weight": {
+							"c0fa809122b04f20ae5dcce359bf3088-blend": {
+								"id": "c0fa809122b04f20ae5dcce359bf3088-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"a298ca9b52ae49a4bc5bd281502330f4": {
+						"blend": "overlay",
+						"entityID": "12838335971c49e8848aae05081a6521",
+						"id": "a298ca9b52ae49a4bc5bd281502330f4",
+						"keyframes": {
+							"dec994659b4847d3a5eba03edd8e0db1": {
+								"id": "dec994659b4847d3a5eba03edd8e0db1",
+								"t": 0,
+								"v": false
+							}
+						},
+						"order": "Zr",
+						"property": [
+							"visible"
+						],
+						"type": "property",
+						"weight": {
+							"b5ce026907ed429eaabb066d3c2f44db-blend": {
+								"id": "b5ce026907ed429eaabb066d3c2f44db-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"aa757d192a224c5595be9e51798e6f72": {
+						"blend": "overlay",
+						"entityID": "fee4292f58784138ac2fb7d2470d48dd",
+						"id": "aa757d192a224c5595be9e51798e6f72",
+						"keyframes": {
+							"24e84e3807f34f73ac448407febd8506": {
+								"id": "24e84e3807f34f73ac448407febd8506",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "Zzt",
+						"property": [
+							"receiveShadow"
+						],
+						"type": "property",
+						"weight": {
+							"1aff7836c88c4fc4a7023a29057c7ea4": {
+								"id": "1aff7836c88c4fc4a7023a29057c7ea4",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"b29e6c6eb6384fd3ba3334ee5a4637df": {
+						"blend": "overlay",
+						"entityID": "ac09dd01f62b47fba18a205b8390074e",
+						"id": "b29e6c6eb6384fd3ba3334ee5a4637df",
+						"keyframes": {
+							"9b0fc421d32348b2b084a39f0c068048": {
+								"id": "9b0fc421d32348b2b084a39f0c068048",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "a0",
+						"property": [
+							"visible"
+						],
+						"type": "property",
+						"weight": {
+							"366b54dd3e1f43d78c22976d0b0ed92f": {
+								"id": "366b54dd3e1f43d78c22976d0b0ed92f",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"b91a590a7f544843b4154475271c4c1c": {
+						"blend": "overlay",
+						"entityID": "f4efe4adc48e4ad7aefdccc1b34283c0",
+						"id": "b91a590a7f544843b4154475271c4c1c",
+						"keyframes": {
+							"b5351943a636445dab5986e4d9927f9c": {
+								"id": "b5351943a636445dab5986e4d9927f9c",
+								"t": 0,
+								"v": false
+							}
+						},
+						"order": "Zs",
+						"property": [
+							"visible"
+						],
+						"type": "property",
+						"weight": {
+							"69f07bdc1d7340c2a7e3361c0b9c7608-blend": {
+								"id": "69f07bdc1d7340c2a7e3361c0b9c7608-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"cb26486d68ea49b484e1cb492ebff44a": {
+						"blend": "overlay",
+						"entityID": "ac09dd01f62b47fba18a205b8390074e",
+						"id": "cb26486d68ea49b484e1cb492ebff44a",
+						"keyframes": {
+							"8d2bab664f854657b3735fb95c77e95d": {
+								"id": "8d2bab664f854657b3735fb95c77e95d",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "a2",
+						"property": [
+							"castShadow"
+						],
+						"type": "property",
+						"weight": {
+							"99485264cdeb40f3b46fbd96bd02f994": {
+								"id": "99485264cdeb40f3b46fbd96bd02f994",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"dca6461daa794ab4bd6cc6642b15255e": {
+						"blend": "overlay",
+						"entityID": "e82e6317dd4742bd904136ffb9998668",
+						"id": "dca6461daa794ab4bd6cc6642b15255e",
+						"keyframes": {
+							"d1ec3009d7ab4e3cbef1372adf72f6b9": {
+								"id": "d1ec3009d7ab4e3cbef1372adf72f6b9",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "Zu",
+						"property": [
+							"castShadow"
+						],
+						"type": "property",
+						"weight": {
+							"e9af7682342840e9a0790ea97a055080-blend": {
+								"id": "e9af7682342840e9a0790ea97a055080-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"e366f8d0b53e432a85543c767acdce35": {
+						"blend": "overlay",
+						"entityID": "fee4292f58784138ac2fb7d2470d48dd",
+						"id": "e366f8d0b53e432a85543c767acdce35",
+						"keyframes": {
+							"78b691bbde8e4052b5863ee5f51ebe89": {
+								"id": "78b691bbde8e4052b5863ee5f51ebe89",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "ZzV",
+						"property": [
+							"visible"
+						],
+						"type": "property",
+						"weight": {
+							"aed7b4b6f7a64b429ce935a9d6fc3b7b": {
+								"id": "aed7b4b6f7a64b429ce935a9d6fc3b7b",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"e6fbbec99c164f2193548653eb83c244": {
+						"blend": "overlay",
+						"entityID": "ac09dd01f62b47fba18a205b8390074e",
+						"id": "e6fbbec99c164f2193548653eb83c244",
+						"keyframes": {
+							"84154a568bd84224b00faeebc6de10ec": {
+								"id": "84154a568bd84224b00faeebc6de10ec",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "a3",
+						"property": [
+							"enabled"
+						],
+						"type": "property",
+						"weight": {
+							"dff4ea5d81004de4864e3068a3a56997": {
+								"id": "dff4ea5d81004de4864e3068a3a56997",
+								"t": 0,
+								"v": 1
+							}
+						}
+					}
+				},
+				"type": "state"
+			},
+			"e22b1377ce1b430db30ee1afdd49dbc0": {
+				"id": "e22b1377ce1b430db30ee1afdd49dbc0",
+				"length": 0,
+				"lengthType": "auto",
+				"name": "Tracking",
+				"order": "a5",
+				"scriptName": "Tracking",
+				"tracks": {
+				},
+				"type": "state"
+			},
+			"ea48692f63e74387b3e5d3ba8a1aa8d7": {
+				"id": "ea48692f63e74387b3e5d3ba8a1aa8d7",
+				"length": 0,
+				"lengthType": "expand",
+				"name": "Towards Conference",
+				"order": "a1",
+				"scriptName": "Towards_Conference",
+				"tracks": {
+					"0106523a534247d595f97dbab2684162": {
+						"blend": "overlay",
+						"entityID": "8ef488a2f704467e93bcb6279b8fe1a1",
+						"id": "0106523a534247d595f97dbab2684162",
+						"keyframes": {
+							"2796b921bac14e07abfb58edfb717372": {
+								"id": "2796b921bac14e07abfb58edfb717372",
+								"t": 0,
+								"v": [
+									0,
+									"number"
+								]
+							}
+						},
+						"order": "Zvzzt",
+						"property": [
+							"outlineOffsetY"
+						],
+						"type": "property",
+						"weight": {
+							"befe5b28794a4850aff4f00ed56ef318-blend": {
+								"id": "befe5b28794a4850aff4f00ed56ef318-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"0c0bdaac258d41c3964f703b73094b2d": {
+						"blend": "overlay",
+						"entityID": "8ef488a2f704467e93bcb6279b8fe1a1",
+						"id": "0c0bdaac258d41c3964f703b73094b2d",
+						"keyframes": {
+							"e4793ac334d046b3ba816172a3da40e5": {
+								"id": "e4793ac334d046b3ba816172a3da40e5",
+								"t": 0,
+								"v": [
+									0,
+									"number"
+								]
+							}
+						},
+						"order": "Zvzzx",
+						"property": [
+							"strokeWidth"
+						],
+						"type": "property",
+						"weight": {
+							"854ef6eb24ea4edab234064c35db9fcb-blend": {
+								"id": "854ef6eb24ea4edab234064c35db9fcb-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"0c207a6e244a47d9ab1848dbc6ab7fc2": {
+						"blend": "overlay",
+						"entityID": "fee4292f58784138ac2fb7d2470d48dd",
+						"id": "0c207a6e244a47d9ab1848dbc6ab7fc2",
+						"keyframes": {
+							"aa70c652d8e34988a1c8343df8982b29": {
+								"id": "aa70c652d8e34988a1c8343df8982b29",
+								"t": 0,
+								"v": [
+									0,
+									0,
+									0
+								]
+							}
+						},
+						"order": "ZzV",
+						"property": [
+							"rotation"
+						],
+						"type": "property",
+						"weight": {
+							"cdde883162114821a6d3a8385cc51440-blend": {
+								"id": "cdde883162114821a6d3a8385cc51440-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"0f4be1980c904507ba96bce165a8037b": {
+						"blend": "overlay",
+						"entityID": "8ef488a2f704467e93bcb6279b8fe1a1",
+						"id": "0f4be1980c904507ba96bce165a8037b",
+						"keyframes": {
+							"ac159313d1e14fbcb8ca777f67034b23": {
+								"id": "ac159313d1e14fbcb8ca777f67034b23",
+								"t": 0,
+								"v": "'+x+y'"
+							}
+						},
+						"order": "Zvzzzz",
+						"property": [
+							"orientation"
+						],
+						"type": "property",
+						"weight": {
+							"4c4d2f8987ec4972a10a5e25de6afa03-blend": {
+								"id": "4c4d2f8987ec4972a10a5e25de6afa03-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"22b44ebbdf3b4501bedd32b0cc1e1c6c": {
+						"blend": "overlay",
+						"entityID": "8ef488a2f704467e93bcb6279b8fe1a1",
+						"id": "22b44ebbdf3b4501bedd32b0cc1e1c6c",
+						"keyframes": {
+							"5ed92d2113844bac9fb9d052c4200abb": {
+								"id": "5ed92d2113844bac9fb9d052c4200abb",
+								"t": 0,
+								"v": "normal"
+							}
+						},
+						"order": "Zvzzzzx",
+						"property": [
+							"overflowWrap"
+						],
+						"type": "property",
+						"weight": {
+							"328bbb21a2d14c1097bac87c2ad39452-blend": {
+								"id": "328bbb21a2d14c1097bac87c2ad39452-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"257ca861926f4d26a84cb8c3cdcac1aa": {
+						"blend": "overlay",
+						"entityID": "8ef488a2f704467e93bcb6279b8fe1a1",
+						"id": "257ca861926f4d26a84cb8c3cdcac1aa",
+						"keyframes": {
+							"97888d89a3014cafa035a93a65fbe530": {
+								"id": "97888d89a3014cafa035a93a65fbe530",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "Zvz",
+						"property": [
+							"doubleSide"
+						],
+						"type": "property",
+						"weight": {
+							"38bcb35a0fdb4385b537d67c7d650135-blend": {
+								"id": "38bcb35a0fdb4385b537d67c7d650135-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"2a3749751613447d8cc0237647665f51": {
+						"blend": "overlay",
+						"entityID": "8ef488a2f704467e93bcb6279b8fe1a1",
+						"id": "2a3749751613447d8cc0237647665f51",
+						"keyframes": {
+							"49338089abe74f55ab4e95fa731b5ad6": {
+								"id": "49338089abe74f55ab4e95fa731b5ad6",
+								"t": 0,
+								"v": [
+									10,
+									"number"
+								]
+							}
+						},
+						"order": "Zvzt",
+						"property": [
+							"outlineWidth"
+						],
+						"type": "property",
+						"weight": {
+							"ea0935b549f4461d956dac52d660f970-blend": {
+								"id": "ea0935b549f4461d956dac52d660f970-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"2e0c00e3d5024c9d8da4cde3aefa8bb6": {
+						"blend": "overlay",
+						"entityID": "fee4292f58784138ac2fb7d2470d48dd",
+						"id": "2e0c00e3d5024c9d8da4cde3aefa8bb6",
+						"keyframes": {
+							"907b151dc7104fb682439a5607c77bd7": {
+								"id": "907b151dc7104fb682439a5607c77bd7",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "Zzl",
+						"property": [
+							"enabled"
+						],
+						"type": "property",
+						"weight": {
+							"dd9dda73d0d447f09c2088c03bc42fee-blend": {
+								"id": "dd9dda73d0d447f09c2088c03bc42fee-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"3071f0672136483da16a17959a64de7d": {
+						"blend": "overlay",
+						"entityID": "8ef488a2f704467e93bcb6279b8fe1a1",
+						"id": "3071f0672136483da16a17959a64de7d",
+						"keyframes": {
+							"b83b9a9b1b3d40bea3191f961f7ede21": {
+								"id": "b83b9a9b1b3d40bea3191f961f7ede21",
+								"t": 0,
+								"v": [
+									0,
+									0,
+									0
+								]
+							}
+						},
+						"order": "Zvzx",
+						"property": [
+							"outlineColor"
+						],
+						"type": "property",
+						"weight": {
+							"415414f3709c4b819e59bf4cb3c567d4-blend": {
+								"id": "415414f3709c4b819e59bf4cb3c567d4-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"35c18a3f73274f218669c4a899e19dfc": {
+						"blend": "overlay",
+						"entityID": "8ef488a2f704467e93bcb6279b8fe1a1",
+						"id": "35c18a3f73274f218669c4a899e19dfc",
+						"keyframes": {
+							"7a894d599dfe4db898fd0b2970c91d59": {
+								"id": "7a894d599dfe4db898fd0b2970c91d59",
+								"t": 0,
+								"v": 64
+							}
+						},
+						"order": "Zvzl",
+						"property": [
+							"sdfGlyphSize"
+						],
+						"type": "property",
+						"weight": {
+							"6314f2a7dcd74c46a0ad52d6e3bf59b7-blend": {
+								"id": "6314f2a7dcd74c46a0ad52d6e3bf59b7-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"3683b2663cee4bca844ef3bb22359a9a": {
+						"blend": "overlay",
+						"entityID": "ac09dd01f62b47fba18a205b8390074e",
+						"id": "3683b2663cee4bca844ef3bb22359a9a",
+						"keyframes": {
+							"ac55a20a7923445a8563991ff6a48b45": {
+								"id": "ac55a20a7923445a8563991ff6a48b45",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "a1",
+						"property": [
+							"receiveShadow"
+						],
+						"type": "property",
+						"weight": {
+							"9793324681d94aff81f966f099beb9c1": {
+								"id": "9793324681d94aff81f966f099beb9c1",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"3c8de3beda54451995ee96af6c27bf8a": {
+						"blend": "overlay",
+						"entityID": "8ef488a2f704467e93bcb6279b8fe1a1",
+						"id": "3c8de3beda54451995ee96af6c27bf8a",
+						"keyframes": {
+							"4bc45230af3d42d7ac31e445793cf94f": {
+								"id": "4bc45230af3d42d7ac31e445793cf94f",
+								"t": 0,
+								"v": 0
+							}
+						},
+						"order": "Zvzzzt",
+						"property": [
+							"depthOffset"
+						],
+						"type": "property",
+						"weight": {
+							"5a55a59f406749e8b2744bf32c0a7f8d-blend": {
+								"id": "5a55a59f406749e8b2744bf32c0a7f8d-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"3d8827b7a42040ac8a54885a271bc053": {
+						"blend": "overlay",
+						"entityID": "e82e6317dd4742bd904136ffb9998668",
+						"id": "3d8827b7a42040ac8a54885a271bc053",
+						"keyframes": {
+							"34b2c93ed10346728e40ef2a5c61118f": {
+								"id": "34b2c93ed10346728e40ef2a5c61118f",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "Zw",
+						"property": [
+							"castShadow"
+						],
+						"type": "property",
+						"weight": {
+							"9937db6a26b34fbeadcb02738ee7c090-blend": {
+								"id": "9937db6a26b34fbeadcb02738ee7c090-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"3e9c05220ae1459dbce4deb3da19c369": {
+						"blend": "overlay",
+						"entityID": "8ef488a2f704467e93bcb6279b8fe1a1",
+						"id": "3e9c05220ae1459dbce4deb3da19c369",
+						"keyframes": {
+							"8cfdd76232b74c018fb301b1d9bec577": {
+								"id": "8cfdd76232b74c018fb301b1d9bec577",
+								"t": 0,
+								"v": [
+									2.616227860578092,
+									-0.14454119695483386,
+									1.3090647879940307
+								]
+							}
+						},
+						"order": "Zvzzzzzt",
+						"property": [
+							"position"
+						],
+						"type": "property",
+						"weight": {
+							"ac5d981a424e4b9da4ef9248d3d91070-blend": {
+								"id": "ac5d981a424e4b9da4ef9248d3d91070-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"49d9d602e10c4dee8cfebd2344826724": {
+						"blend": "overlay",
+						"entityID": "8ef488a2f704467e93bcb6279b8fe1a1",
+						"id": "49d9d602e10c4dee8cfebd2344826724",
+						"keyframes": {
+							"ff6cfe9765b643d497cbebdaa5cff75e": {
+								"id": "ff6cfe9765b643d497cbebdaa5cff75e",
+								"t": 0,
+								"v": 1
+							}
+						},
+						"order": "Zvzzzl",
+						"property": [
+							"fillOpacity"
+						],
+						"type": "property",
+						"weight": {
+							"f26a743e08774f748ec2f5f002ea169b-blend": {
+								"id": "f26a743e08774f748ec2f5f002ea169b-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"4bdb1f5ea6954924b27affde7ac26f5b": {
+						"blend": "overlay",
+						"entityID": "8ef488a2f704467e93bcb6279b8fe1a1",
+						"id": "4bdb1f5ea6954924b27affde7ac26f5b",
+						"keyframes": {
+							"7ba8883495874756b46fd8186dbdd9d5": {
+								"id": "7ba8883495874756b46fd8186dbdd9d5",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "Zvzzzzzl",
+						"property": [
+							"visible"
+						],
+						"type": "property",
+						"weight": {
+							"3d5b20990e7745699513d25276effcb2-blend": {
+								"id": "3d5b20990e7745699513d25276effcb2-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"4d726a16179d48d9a97e4f4e0b2777e7": {
+						"blend": "overlay",
+						"entityID": "8ef488a2f704467e93bcb6279b8fe1a1",
+						"id": "4d726a16179d48d9a97e4f4e0b2777e7",
+						"keyframes": {
+							"0f98207fc04c4802a77def7956e9c065": {
+								"id": "0f98207fc04c4802a77def7956e9c065",
+								"t": 0,
+								"v": "middle"
+							}
+						},
+						"order": "Zvx",
+						"property": [
+							"anchorY"
+						],
+						"type": "property",
+						"weight": {
+							"41415d8e74714644acf6359f3afdf701-blend": {
+								"id": "41415d8e74714644acf6359f3afdf701-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"627f0c4928344e939c786a21463c0fe5": {
+						"blend": "overlay",
+						"entityID": "8ef488a2f704467e93bcb6279b8fe1a1",
+						"id": "627f0c4928344e939c786a21463c0fe5",
+						"keyframes": {
+							"feffc72a5cd64806bd35e4711c48e59b": {
+								"id": "feffc72a5cd64806bd35e4711c48e59b",
+								"t": 0,
+								"v": [
+									0.8,
+									0.8,
+									0.8
+								]
+							}
+						},
+						"order": "Zvzzz",
+						"property": [
+							"strokeColor"
+						],
+						"type": "property",
+						"weight": {
+							"f2dd3655cbc04a88b14a575e070d2d58-blend": {
+								"id": "f2dd3655cbc04a88b14a575e070d2d58-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"649606b498e844f9b5b235221db04dce": {
+						"blend": "overlay",
+						"entityID": "8ef488a2f704467e93bcb6279b8fe1a1",
+						"id": "649606b498e844f9b5b235221db04dce",
+						"keyframes": {
+							"068a9f22559d4898a5d6c47290099dfb": {
+								"id": "068a9f22559d4898a5d6c47290099dfb",
+								"t": 0,
+								"v": [
+									0,
+									"number"
+								]
+							}
+						},
+						"order": "Zvzzl",
+						"property": [
+							"outlineOffsetX"
+						],
+						"type": "property",
+						"weight": {
+							"311ac06e79364abfa691dab4c04e8a29-blend": {
+								"id": "311ac06e79364abfa691dab4c04e8a29-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"6a4f994cbb4f47fb82f1a742735d0708": {
+						"blend": "overlay",
+						"entityID": "8ef488a2f704467e93bcb6279b8fe1a1",
+						"id": "6a4f994cbb4f47fb82f1a742735d0708",
+						"keyframes": {
+							"c7c2e6fddc004e94a27e805b594bdea6": {
+								"id": "c7c2e6fddc004e94a27e805b594bdea6",
+								"t": 0,
+								"v": [
+									0.005,
+									"number"
+								]
+							}
+						},
+						"order": "ZvzzV",
+						"property": [
+							"outlineBlur"
+						],
+						"type": "property",
+						"weight": {
+							"9794c4b79a8b464797e97d107791fff1-blend": {
+								"id": "9794c4b79a8b464797e97d107791fff1-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"6f69fb52dd964749972ac3f46b92c179": {
+						"blend": "overlay",
+						"entityID": "8ef488a2f704467e93bcb6279b8fe1a1",
+						"id": "6f69fb52dd964749972ac3f46b92c179",
+						"keyframes": {
+							"6b3d6bc560ed44d68040831889d6e633": {
+								"id": "6b3d6bc560ed44d68040831889d6e633",
+								"t": 0,
+								"v": "center"
+							}
+						},
+						"order": "Zvt",
+						"property": [
+							"anchorX"
+						],
+						"type": "property",
+						"weight": {
+							"cd928878eb1e4631a696c9a8c29c18d2-blend": {
+								"id": "cd928878eb1e4631a696c9a8c29c18d2-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"761686669dee443ea0bf5db52b994031": {
+						"blend": "overlay",
+						"entityID": "fee4292f58784138ac2fb7d2470d48dd",
+						"id": "761686669dee443ea0bf5db52b994031",
+						"keyframes": {
+							"797f89cc99c2418d8bd45688da57539e": {
+								"id": "797f89cc99c2418d8bd45688da57539e",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "Zxl",
+						"property": [
+							"castShadow"
+						],
+						"type": "property",
+						"weight": {
+							"682929c5267a45af9559439ea516d34a": {
+								"id": "682929c5267a45af9559439ea516d34a",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"8a7823bee8fc40e09a6c401187bcf9e3": {
+						"blend": "overlay",
+						"entityID": "8ef488a2f704467e93bcb6279b8fe1a1",
+						"id": "8a7823bee8fc40e09a6c401187bcf9e3",
+						"keyframes": {
+							"85e75f42d7174b31ad3746d94a8b350a": {
+								"id": "85e75f42d7174b31ad3746d94a8b350a",
+								"t": 0,
+								"v": [
+									-100,
+									-100,
+									100,
+									100
+								]
+							}
+						},
+						"order": "Zvzzzx",
+						"property": [
+							"clipRect"
+						],
+						"type": "property",
+						"weight": {
+							"7b5377dc04484fe781a25a52ee4e5263-blend": {
+								"id": "7b5377dc04484fe781a25a52ee4e5263-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"8b388d26cce248b2b80cf48aedadbec4": {
+						"blend": "overlay",
+						"entityID": "e82e6317dd4742bd904136ffb9998668",
+						"id": "8b388d26cce248b2b80cf48aedadbec4",
+						"keyframes": {
+							"0b23e2d2972942d696388fcbe028628b": {
+								"id": "0b23e2d2972942d696388fcbe028628b",
+								"t": 0,
+								"v": [
+									2.617448662191764,
+									-0.4903576770017153,
+									1.295410870166324
+								]
+							}
+						},
+						"order": "Zwt",
+						"property": [
+							"position"
+						],
+						"type": "property",
+						"weight": {
+							"3aca3a15582044afb7739fdbca8554bb-blend": {
+								"id": "3aca3a15582044afb7739fdbca8554bb-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"8b58ead50282472cb9d4d2c43f647d05": {
+						"blend": "overlay",
+						"entityID": "8ef488a2f704467e93bcb6279b8fe1a1",
+						"id": "8b58ead50282472cb9d4d2c43f647d05",
+						"keyframes": {
+							"1fee8b6ff52a4c698efa7b239bbc2c79": {
+								"id": "1fee8b6ff52a4c698efa7b239bbc2c79",
+								"t": 0,
+								"v": 0
+							}
+						},
+						"order": "Zvzzzzz",
+						"property": [
+							"lineHeight"
+						],
+						"type": "property",
+						"weight": {
+							"09f03c6f72604094aa2f030074f9d960-blend": {
+								"id": "09f03c6f72604094aa2f030074f9d960-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"9d966f92f34d4504b4d0bd42272c6103": {
+						"blend": "overlay",
+						"entityID": "8ef488a2f704467e93bcb6279b8fe1a1",
+						"id": "9d966f92f34d4504b4d0bd42272c6103",
+						"keyframes": {
+							"7f65f37c99804288bbb5297ba961e9cd": {
+								"id": "7f65f37c99804288bbb5297ba961e9cd",
+								"t": 0,
+								"v": 1
+							}
+						},
+						"order": "Zvzz",
+						"property": [
+							"outlineOpacity"
+						],
+						"type": "property",
+						"weight": {
+							"eda32d3209e14bc4923d394a2ee0c325-blend": {
+								"id": "eda32d3209e14bc4923d394a2ee0c325-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"a0ff509f678a474aa529c84ca8dfabe5": {
+						"blend": "overlay",
+						"entityID": "ac09dd01f62b47fba18a205b8390074e",
+						"id": "a0ff509f678a474aa529c84ca8dfabe5",
+						"keyframes": {
+							"358746040ae940a68302489709613c3a": {
+								"id": "358746040ae940a68302489709613c3a",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "a0",
+						"property": [
+							"castShadow"
+						],
+						"type": "property",
+						"weight": {
+							"6afaaee4092d478fa16720406ccb3161": {
+								"id": "6afaaee4092d478fa16720406ccb3161",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"a4b77bfa61df410e94818cfb0e1b2be4": {
+						"blend": "overlay",
+						"entityID": "8ef488a2f704467e93bcb6279b8fe1a1",
+						"id": "a4b77bfa61df410e94818cfb0e1b2be4",
+						"keyframes": {
+							"fc8f49a336b64f23987ef5082881d0c7": {
+								"id": "fc8f49a336b64f23987ef5082881d0c7",
+								"t": 0,
+								"v": 1
+							}
+						},
+						"order": "ZvzzzzV",
+						"property": [
+							"glyphGeometryDetail"
+						],
+						"type": "property",
+						"weight": {
+							"b0400c40b74744d485b905ad95bd5bdf-blend": {
+								"id": "b0400c40b74744d485b905ad95bd5bdf-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"a8543cbec10d4e47800730df744eda9c": {
+						"blend": "overlay",
+						"entityID": "8ef488a2f704467e93bcb6279b8fe1a1",
+						"id": "a8543cbec10d4e47800730df744eda9c",
+						"keyframes": {
+							"56af0c0872764e9b96ded522cd2d45fc": {
+								"id": "56af0c0872764e9b96ded522cd2d45fc",
+								"t": 0,
+								"v": 0.1
+							}
+						},
+						"order": "ZvV",
+						"property": [
+							"fontSize"
+						],
+						"type": "property",
+						"weight": {
+							"76de95b6017944e9bd10d917696c79b6-blend": {
+								"id": "76de95b6017944e9bd10d917696c79b6-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"ada0d69db79a462aa7ebdcf4e6af3596": {
+						"blend": "overlay",
+						"entityID": "8ef488a2f704467e93bcb6279b8fe1a1",
+						"id": "ada0d69db79a462aa7ebdcf4e6af3596",
+						"keyframes": {
+							"18e5b3f3cb144ce29f5fdd550cc02855": {
+								"id": "18e5b3f3cb144ce29f5fdd550cc02855",
+								"t": 0,
+								"v": "center"
+							}
+						},
+						"order": "Zvzzzzt",
+						"property": [
+							"textAlign"
+						],
+						"type": "property",
+						"weight": {
+							"2b4c6af4693d458ba33c3be423b1ff6f-blend": {
+								"id": "2b4c6af4693d458ba33c3be423b1ff6f-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"b0c963e2ff394a7fbdda6dc876357d2b": {
+						"blend": "overlay",
+						"entityID": "fee4292f58784138ac2fb7d2470d48dd",
+						"id": "b0c963e2ff394a7fbdda6dc876357d2b",
+						"keyframes": {
+							"b3934eb570e6463ea9ca8be9dc3f84d2": {
+								"id": "b3934eb570e6463ea9ca8be9dc3f84d2",
+								"t": 0,
+								"v": "e82e6317dd4742bd904136ffb9998668"
+							}
+						},
+						"order": "Zx",
+						"property": [
+							"target"
+						],
+						"type": "property",
+						"weight": {
+							"dacf1d0fbccb4642a7d1b49f2c98cdef": {
+								"id": "dacf1d0fbccb4642a7d1b49f2c98cdef",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"bc5cf8c80b7f4e9cb4c02db489234436": {
+						"blend": "overlay",
+						"entityID": "e82e6317dd4742bd904136ffb9998668",
+						"id": "bc5cf8c80b7f4e9cb4c02db489234436",
+						"keyframes": {
+							"4f486194dcbc46f9af0527ae13d8ec64": {
+								"id": "4f486194dcbc46f9af0527ae13d8ec64",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "Zwx",
+						"property": [
+							"enabled"
+						],
+						"type": "property",
+						"weight": {
+							"ed2df17aea9047f1b39de81f6524eddb-blend": {
+								"id": "ed2df17aea9047f1b39de81f6524eddb-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"be20314b852c4f0b9abf9f1cef23db2d": {
+						"blend": "overlay",
+						"entityID": "8ef488a2f704467e93bcb6279b8fe1a1",
+						"id": "be20314b852c4f0b9abf9f1cef23db2d",
+						"keyframes": {
+							"fbd436a9e60a46b6b4c895c7d21c16e3": {
+								"id": "fbd436a9e60a46b6b4c895c7d21c16e3",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "ZvzV",
+						"property": [
+							"gpuAccelerateSDF"
+						],
+						"type": "property",
+						"weight": {
+							"13aebcdbe8b14383baf71675d1ddbf08-blend": {
+								"id": "13aebcdbe8b14383baf71675d1ddbf08-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"be5f14a0da6b48489e82105b152ab454": {
+						"blend": "overlay",
+						"entityID": "fee4292f58784138ac2fb7d2470d48dd",
+						"id": "be5f14a0da6b48489e82105b152ab454",
+						"keyframes": {
+							"a18d598a9c3d4a2dbc96303b0f4bb122": {
+								"id": "a18d598a9c3d4a2dbc96303b0f4bb122",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "ZxV",
+						"property": [
+							"visible"
+						],
+						"type": "property",
+						"weight": {
+							"3158eb72cbb541daa809fd99131fc53d": {
+								"id": "3158eb72cbb541daa809fd99131fc53d",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"c77903fae36f48bcab2a9df5f17a368b": {
+						"blend": "overlay",
+						"entityID": "8ef488a2f704467e93bcb6279b8fe1a1",
+						"id": "c77903fae36f48bcab2a9df5f17a368b",
+						"keyframes": {
+							"deb34154e60f42c0afabfe372400265e": {
+								"id": "deb34154e60f42c0afabfe372400265e",
+								"t": 0,
+								"v": "normal"
+							}
+						},
+						"order": "Zvzzzzl",
+						"property": [
+							"whiteSpace"
+						],
+						"type": "property",
+						"weight": {
+							"4afbfb7cabfa4fe9888240c0a650e545-blend": {
+								"id": "4afbfb7cabfa4fe9888240c0a650e545-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"ceb7ac3443604871ba09946ebc3b2f81": {
+						"blend": "overlay",
+						"entityID": "8ef488a2f704467e93bcb6279b8fe1a1",
+						"id": "ceb7ac3443604871ba09946ebc3b2f81",
+						"keyframes": {
+							"8755fb5bc2cd4f5ba7d1f1bc71940d3a": {
+								"id": "8755fb5bc2cd4f5ba7d1f1bc71940d3a",
+								"t": 0,
+								"v": "ltf"
+							}
+						},
+						"order": "ZvzzzzzV",
+						"property": [
+							"direction"
+						],
+						"type": "property",
+						"weight": {
+							"3f73961d48cf4d5e9782c8f8959e2396-blend": {
+								"id": "3f73961d48cf4d5e9782c8f8959e2396-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"d5f0a4f826f2462d8afba04d1a03e61c": {
+						"blend": "overlay",
+						"entityID": "ac09dd01f62b47fba18a205b8390074e",
+						"id": "d5f0a4f826f2462d8afba04d1a03e61c",
+						"keyframes": {
+							"371ca6dc45ee4a5aa0899eee587d4cdb": {
+								"id": "371ca6dc45ee4a5aa0899eee587d4cdb",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "a2",
+						"property": [
+							"visible"
+						],
+						"type": "property",
+						"weight": {
+							"93017f1f908d48ac9c16a2c763d22933": {
+								"id": "93017f1f908d48ac9c16a2c763d22933",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"d78368957921436eb786e7085d182e15": {
+						"blend": "overlay",
+						"entityID": "8ef488a2f704467e93bcb6279b8fe1a1",
+						"id": "d78368957921436eb786e7085d182e15",
+						"keyframes": {
+							"c982ce8ae72d4cd4b9728fbadbf8f72b": {
+								"id": "c982ce8ae72d4cd4b9728fbadbf8f72b",
+								"t": 0,
+								"v": "Conference Room"
+							}
+						},
+						"order": "Zv",
+						"property": [
+							"text"
+						],
+						"type": "property",
+						"weight": {
+							"a812c309b6dc4959918097d52c79aaf2-blend": {
+								"id": "a812c309b6dc4959918097d52c79aaf2-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"d7deb5b673c94259b71e09482c5f74c8": {
+						"blend": "overlay",
+						"entityID": "8ef488a2f704467e93bcb6279b8fe1a1",
+						"id": "d7deb5b673c94259b71e09482c5f74c8",
+						"keyframes": {
+							"e369a777796140f3949b40aa8583f6d3": {
+								"id": "e369a777796140f3949b40aa8583f6d3",
+								"t": 0,
+								"v": 1
+							}
+						},
+						"order": "ZvzzzV",
+						"property": [
+							"strokeOpacity"
+						],
+						"type": "property",
+						"weight": {
+							"b67585e1d6d74ee78c7396c246f37609-blend": {
+								"id": "b67585e1d6d74ee78c7396c246f37609-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"eb222614fef5434986fd0828d7094b48": {
+						"blend": "overlay",
+						"entityID": "8ef488a2f704467e93bcb6279b8fe1a1",
+						"id": "eb222614fef5434986fd0828d7094b48",
+						"keyframes": {
+							"8a7d406e0cfa4349846b36539260b6ed": {
+								"id": "8a7d406e0cfa4349846b36539260b6ed",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "Zvzzzzzx",
+						"property": [
+							"enabled"
+						],
+						"type": "property",
+						"weight": {
+							"a6a9724b021d44f08f40d6878a12937b-blend": {
+								"id": "a6a9724b021d44f08f40d6878a12937b-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"ec4d59efa9fe4690834dffaad1591e6f": {
+						"blend": "overlay",
+						"entityID": "fee4292f58784138ac2fb7d2470d48dd",
+						"id": "ec4d59efa9fe4690834dffaad1591e6f",
+						"keyframes": {
+							"e7ff3813c7094517939d355632369030": {
+								"id": "e7ff3813c7094517939d355632369030",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "Zxt",
+						"property": [
+							"receiveShadow"
+						],
+						"type": "property",
+						"weight": {
+							"bb77fb9bd5e64e0a9258b1b863504faa": {
+								"id": "bb77fb9bd5e64e0a9258b1b863504faa",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"fa5ea820a00f42b993b1e1d36309fc5a": {
+						"blend": "overlay",
+						"entityID": "ac09dd01f62b47fba18a205b8390074e",
+						"id": "fa5ea820a00f42b993b1e1d36309fc5a",
+						"keyframes": {
+							"565eb4951eb948bda7b5d5c3dd6e632c": {
+								"id": "565eb4951eb948bda7b5d5c3dd6e632c",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "a6",
+						"property": [
+							"enabled"
+						],
+						"type": "property",
+						"weight": {
+							"54207fd244844b30bc29b5e81a3c48d7-blend": {
+								"id": "54207fd244844b30bc29b5e81a3c48d7-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"fbf04d37d84f40658d8c2a065e24c3c3": {
+						"blend": "overlay",
+						"entityID": "e82e6317dd4742bd904136ffb9998668",
+						"id": "fbf04d37d84f40658d8c2a065e24c3c3",
+						"keyframes": {
+							"f50ebe2c857e4e67a9028aadf1f96233": {
+								"id": "f50ebe2c857e4e67a9028aadf1f96233",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "Zwl",
+						"property": [
+							"visible"
+						],
+						"type": "property",
+						"weight": {
+							"96cfb2be6be0488eb9ac8413486ff35f-blend": {
+								"id": "96cfb2be6be0488eb9ac8413486ff35f-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"fd3a67073b3b44b8b40c15e777d43f97": {
+						"blend": "overlay",
+						"entityID": "8ef488a2f704467e93bcb6279b8fe1a1",
+						"id": "fd3a67073b3b44b8b40c15e777d43f97",
+						"keyframes": {
+							"877061321e434c5ea8b940bdaa978ca8": {
+								"id": "877061321e434c5ea8b940bdaa978ca8",
+								"t": 0,
+								"v": [
+									1,
+									1,
+									1
+								]
+							}
+						},
+						"order": "Zvl",
+						"property": [
+							"color"
+						],
+						"type": "property",
+						"weight": {
+							"1e574799e96f432c8f344d4e80ada551-blend": {
+								"id": "1e574799e96f432c8f344d4e80ada551-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					},
+					"ffa8b19ba6e9485196b9040dab462cdb": {
+						"blend": "overlay",
+						"entityID": "e82e6317dd4742bd904136ffb9998668",
+						"id": "ffa8b19ba6e9485196b9040dab462cdb",
+						"keyframes": {
+							"e0c860eb5ab64a959e32f3a942d93a2b": {
+								"id": "e0c860eb5ab64a959e32f3a942d93a2b",
+								"t": 0,
+								"v": true
+							}
+						},
+						"order": "ZwV",
+						"property": [
+							"receiveShadow"
+						],
+						"type": "property",
+						"weight": {
+							"6b3793ca49684042a131d9a81ea19dbd-blend": {
+								"id": "6b3793ca49684042a131d9a81ea19dbd-blend",
+								"t": 0,
+								"v": 1
+							}
+						}
+					}
+				},
+				"type": "state"
+			},
+			"f4a001808ae44053a967b27b17fa4b95": {
+				"defaultFadeParameters": {
+				},
+				"id": "f4a001808ae44053a967b27b17fa4b95",
+				"length": 3995,
+				"lengthType": "manual",
+				"name": "Initializing",
+				"order": "a7",
+				"scriptName": "Initializing",
+				"tracks": {
+				},
+				"type": "timeline"
+			}
+		},
+		"curves": {
+		},
+		"layers": {
+			"b765885be5f942ff9eef3e12a2c690b0": {
+				"clips": {
+					"6bfacad1352b49c08019b7d63875a6c9": {
+						"clipId": "58452df5c02c4b62a0a2a92877322f6e",
+						"id": "6bfacad1352b49c08019b7d63875a6c9",
+						"order": "a2",
+						"scriptName": "TutorialToggle0"
+					}
+				},
+				"defaultClip": null,
+				"defaultFadeParameters": {
+					"easing": "ease",
+					"pin": 0,
+					"time": 300
+				},
+				"enabled": true,
+				"id": "b765885be5f942ff9eef3e12a2c690b0",
+				"name": "DisableTutorial",
+				"order": "a4",
+				"scriptName": "DisableTutorial"
+			},
+			"e4fa5148befb4599bb500b17773f0056": {
+				"clips": {
+					"31b10728bf2b439ea08296e0126ca95b": {
+						"clipId": "158e2713dca045999a5c97f8b00758aa",
+						"id": "31b10728bf2b439ea08296e0126ca95b",
+						"order": "a2",
+						"scriptName": "Explore_ModeTrigger0"
+					},
+					"38c12293fb6f4663be845dd0d964550c": {
+						"clipId": "cfea3ca349af4339999f728f2030b9cf",
+						"id": "38c12293fb6f4663be845dd0d964550c",
+						"order": "a4",
+						"scriptName": "Towards_Conference"
+					},
+					"623cd2a0f17e413289ffa0a4a4100bf0": {
+						"clipId": "463ea914d126442d8466a3ec01919384",
+						"id": "623cd2a0f17e413289ffa0a4a4100bf0",
+						"order": "a3",
+						"scriptName": "Towards_Entrance"
+					}
+				},
+				"defaultClip": null,
+				"defaultFadeParameters": {
+					"easing": "ease",
+					"pin": 0,
+					"time": 300
+				},
+				"enabled": true,
+				"id": "e4fa5148befb4599bb500b17773f0056",
+				"name": "Explore / Show All Labels",
+				"order": "a3",
+				"scriptName": "Explore_ShowAllLabels"
+			}
+		}
+	},
+	"behaviors": {
+		"09d249dde5aa4159938b9d8bcf24d8f0": {
+			"id": "09d249dde5aa4159938b9d8bcf24d8f0",
+			"label": "ActivateState",
+			"parent": {
+				"id": "4a888ef7895947bda4912ad8e15bccec",
+				"order": "a0",
+				"scriptName": "ActivateState"
+			},
+			"type": "@zcomponent/core/lib/behaviors/ActivateState#ActivateState"
+		},
+		"0e119033eb0c4e5082baa09da28acb02": {
+			"id": "0e119033eb0c4e5082baa09da28acb02",
+			"label": "ActivateState",
+			"parent": {
+				"id": "04a9ddfda6184b958809578e46d7ccbb",
+				"order": "a0",
+				"scriptName": "ActivateState"
+			},
+			"type": "@zcomponent/core/lib/behaviors/ActivateState#ActivateState"
+		},
+		"1f506cab1769461696a795e6b62e674a": {
+			"id": "1f506cab1769461696a795e6b62e674a",
+			"label": "Call ActivateState.perform",
+			"parent": {
+				"id": "3ae00f2cc872480cb6f0a8dd2741c5de",
+				"order": "a0",
+				"scriptName": "Call_ActivateState_perform"
+			},
+			"type": "@zcomponent/core/lib/behaviors/CallFunction#CallFunction"
+		},
+		"20511e54aec140689d305cf06ad54ded": {
+			"id": "20511e54aec140689d305cf06ad54ded",
+			"label": "ActivateState",
+			"parent": {
+				"id": "5c072b0d5ea44cabae3f3673f89098f2",
+				"order": "a0",
+				"scriptName": "ActivateState"
+			},
+			"type": "@zcomponent/core/lib/behaviors/ActivateState#ActivateState"
+		},
+		"2104b5169cc64e439a080b8ddab93066": {
+			"id": "2104b5169cc64e439a080b8ddab93066",
+			"label": "ActivateState",
+			"parent": {
+				"id": "a74b1886b9d34aeeac4ff65b8c90a9c6",
+				"order": "a0",
+				"scriptName": "ActivateState"
+			},
+			"type": "@zcomponent/core/lib/behaviors/ActivateState#ActivateState"
+		},
+		"4819247fd30d483898679618b7334abe": {
+			"id": "4819247fd30d483898679618b7334abe",
+			"label": "ActivateState",
+			"parent": {
+				"id": "534b9f78885f45fb88a73ef6dc09e7c1",
+				"order": "a0",
+				"scriptName": "ActivateState"
+			},
+			"type": "@zcomponent/core/lib/behaviors/ActivateState#ActivateState"
+		},
+		"6f0ffc5f6d2f4f80b28494b647141e33": {
+			"id": "6f0ffc5f6d2f4f80b28494b647141e33",
+			"label": "ActivateState",
+			"parent": {
+				"id": "e3663bea13c74d00811bdcce79edb21d",
+				"order": "a0",
+				"scriptName": "ActivateState"
+			},
+			"type": "@zcomponent/core/lib/behaviors/ActivateState#ActivateState"
+		},
+		"92467dc45be24fc4a0646d84787bc1bc": {
+			"id": "92467dc45be24fc4a0646d84787bc1bc",
+			"label": "ActivateState",
+			"parent": {
+				"id": "d0b0c460505f469bbc4607dde9770857",
+				"order": "a0",
+				"scriptName": "ActivateState"
+			},
+			"type": "@zcomponent/core/lib/behaviors/ActivateState#ActivateState"
+		},
+		"a945a9257c8948689a3a8c2e4f26a272": {
+			"id": "a945a9257c8948689a3a8c2e4f26a272",
+			"label": "ActivateState",
+			"parent": {
+				"id": "777b9a6f23574f75b1a03653c52c8037",
+				"order": "a0",
+				"scriptName": "ActivateState"
+			},
+			"type": "@zcomponent/core/lib/behaviors/ActivateState#ActivateState"
+		},
+		"e58825d88d434de886513efa67a1cd74": {
+			"id": "e58825d88d434de886513efa67a1cd74",
+			"label": "ActivateState",
+			"parent": {
+				"id": "aa98d3c8e809493e890204eafedaee68",
+				"order": "a0",
+				"scriptName": "ActivateState"
+			},
+			"type": "@zcomponent/core/lib/behaviors/ActivateState#ActivateState"
+		},
+		"e7f0299498554e24bcfdc823a5b6b172": {
+			"id": "e7f0299498554e24bcfdc823a5b6b172",
+			"label": "ActivateState",
+			"parent": {
+				"id": "3932ea3d69aa4aed94097f604287e003",
+				"order": "a0",
+				"scriptName": "ActivateState"
+			},
+			"type": "@zcomponent/core/lib/behaviors/ActivateState#ActivateState"
+		}
+	},
+	"constructorProps": {
+	},
+	"entitiesByLabel": {
+		"Aura Interactive Top Logo": {
+			"557cc57affc04afd838d2d8c4efab796": true
+		},
+		"Bottom Overlay CSS": {
+			"7d8774cf387d4595b461beeb58473324": true
+		},
+		"CSS": {
+			"fddffcc8a26648d28e74da1a1d3c19a0": true
+		},
+		"CameraEnvironmentMap": {
+			"8aceca5f56f54ae298054c8773fa5d2e": true
+		},
+		"Conference": {
+			"a74b1886b9d34aeeac4ff65b8c90a9c6": true
+		},
+		"Conference Room Option": {
+			"04a9ddfda6184b958809578e46d7ccbb": true
+		},
+		"Conference Target": {
+			"e82e6317dd4742bd904136ffb9998668": true
+		},
+		"ConferenceTarget Label": {
+			"8ef488a2f704467e93bcb6279b8fe1a1": true
+		},
+		"DefaultCookieConsent": {
+			"0ba8e27369df45ca897731dcb1e39bcf": true
+		},
+		"DefaultLoader": {
+			"52148d8eafe3426085e700e049662c07": true
+		},
+		"Defaults": {
+			"7b6fb4d895774174b5d151eec86b704c": true
+		},
+		"DirectionalLight": {
+			"857f9901b65b42c89a3ff04470d70738": true
+		},
+		"Div": {
+			"4a888ef7895947bda4912ad8e15bccec": true
+		},
+		"Div 2": {
+			"601cb1c913f8485b90d586d1a49a73b4": true
+		},
+		"Div 3": {
+			"aa98d3c8e809493e890204eafedaee68": true
+		},
+		"Entrance": {
+			"d0b0c460505f469bbc4607dde9770857": true
+		},
+		"Entrance Option": {
+			"534b9f78885f45fb88a73ef6dc09e7c1": true
+		},
+		"Entrance Target": {
+			"f4efe4adc48e4ad7aefdccc1b34283c0": true
+		},
+		"EntranceTarget Label": {
+			"12838335971c49e8848aae05081a6521": true
+		},
+		"Explore Button": {
+			"5c072b0d5ea44cabae3f3673f89098f2": true,
+			"777b9a6f23574f75b1a03653c52c8037": true
+		},
+		"Glass Initial (Buttons)": {
+			"3932ea3d69aa4aed94097f604287e003": true
+		},
+		"Glassmorphism Bottom UI (Dropdown)": {
+			"e3663bea13c74d00811bdcce79edb21d": true
+		},
+		"Group": {
+			"root": true
+		},
+		"H2": {
+			"67d350be387e47e890671dd58fb7b0bd": true
+		},
+		"Img": {
+			"8ed1726342cd4cb0b7f03a76932217fc": true
+		},
+		"ImmersalAnchorGroup": {
+			"cdbd499046634ddba6495035f6872d05": true
+		},
+		"Lobby Option": {
+			"3ae00f2cc872480cb6f0a8dd2741c5de": true
+		},
+		"LookAtNode": {
+			"fee4292f58784138ac2fb7d2470d48dd": true
+		},
+		"Mode / Selected Destination Indicator Text": {
+			"0cfc446f9586443facfe2b0388a21e59": true
+		},
+		"Navigation Arrow": {
+			"88be6f3f4baa452db0e88a30abcce316": true
+		},
+		"Select POI": {
+			"02d373ce066a4f068696eac029bc58fe": true
+		},
+		"ShadowPlane": {
+			"26855c66e5484b449401ca65edab4860": true
+		},
+		"Tutorial Text": {
+			"d0002a35eb784155933fe401c955fd58": true
+		},
+		"Tutorial Text 2": {
+			"66748546087c42cc8b97be8ff057ea51": true
+		},
+		"Workspace Option": {
+			"77c354e3c5cb477595f043c15a0cbd8c": true
+		},
+		"WorldTracker": {
+			"43661c8d3ef04ff19efbafeb72bb229b": true
+		},
+		"WorldTrackingUI": {
+			"73b9420a21f742ec908c3abf9df3f40a": true
+		},
+		"ZapparCamera": {
+			"d056c264c3d345908a1345aeb612ed9d": true
+		},
+		"arrow_01.glb": {
+			"ac09dd01f62b47fba18a205b8390074e": true
+		},
+		"glassIntital.css": {
+			"f743bda86457485fa1aeee69d29214f4": true
+		},
+		"tutorialOverlay.css": {
+			"2199541428a9425caa3d17372b5d5726": true
+		}
+	},
+	"entitiesByScriptName": {
+		"Aura_InteractiveTopLogo": {
+			"557cc57affc04afd838d2d8c4efab796": true
+		},
+		"Bottom_OverlayCSS": {
+			"7d8774cf387d4595b461beeb58473324": true
+		},
+		"CSS": {
+			"fddffcc8a26648d28e74da1a1d3c19a0": true
+		},
+		"CameraEnvironmentMap": {
+			"8aceca5f56f54ae298054c8773fa5d2e": true
+		},
+		"Conference": {
+			"a74b1886b9d34aeeac4ff65b8c90a9c6": true
+		},
+		"ConferenceTarget_Label": {
+			"8ef488a2f704467e93bcb6279b8fe1a1": true
+		},
+		"Conference_RoomOption": {
+			"04a9ddfda6184b958809578e46d7ccbb": true
+		},
+		"Conference_Target": {
+			"e82e6317dd4742bd904136ffb9998668": true
+		},
+		"DefaultCookieConsent": {
+			"0ba8e27369df45ca897731dcb1e39bcf": true
+		},
+		"DefaultLoader": {
+			"52148d8eafe3426085e700e049662c07": true
+		},
+		"Defaults": {
+			"7b6fb4d895774174b5d151eec86b704c": true
+		},
+		"DirectionalLight": {
+			"857f9901b65b42c89a3ff04470d70738": true
+		},
+		"Div": {
+			"4a888ef7895947bda4912ad8e15bccec": true
+		},
+		"Div_2": {
+			"601cb1c913f8485b90d586d1a49a73b4": true
+		},
+		"Div_3": {
+			"aa98d3c8e809493e890204eafedaee68": true
+		},
+		"Entrance": {
+			"d0b0c460505f469bbc4607dde9770857": true
+		},
+		"EntranceTarget_Label": {
+			"12838335971c49e8848aae05081a6521": true
+		},
+		"Entrance_Option": {
+			"534b9f78885f45fb88a73ef6dc09e7c1": true
+		},
+		"Entrance_Target": {
+			"f4efe4adc48e4ad7aefdccc1b34283c0": true
+		},
+		"Explore_Button": {
+			"777b9a6f23574f75b1a03653c52c8037": true
+		},
+		"Explore_Button0": {
+			"5c072b0d5ea44cabae3f3673f89098f2": true
+		},
+		"Glass_InitialButtons": {
+			"3932ea3d69aa4aed94097f604287e003": true
+		},
+		"Glassmorphism_BottomUIDropdown": {
+			"e3663bea13c74d00811bdcce79edb21d": true
+		},
+		"H2": {
+			"67d350be387e47e890671dd58fb7b0bd": true
+		},
+		"Img": {
+			"8ed1726342cd4cb0b7f03a76932217fc": true
+		},
+		"ImmersalAnchorGroup": {
+			"cdbd499046634ddba6495035f6872d05": true
+		},
+		"Lobby_Option": {
+			"3ae00f2cc872480cb6f0a8dd2741c5de": true
+		},
+		"LookAtNode": {
+			"fee4292f58784138ac2fb7d2470d48dd": true
+		},
+		"Mode_SelectedDestinationIndicatorText": {
+			"0cfc446f9586443facfe2b0388a21e59": true
+		},
+		"Navigation_Arrow": {
+			"88be6f3f4baa452db0e88a30abcce316": true
+		},
+		"Select_POI": {
+			"02d373ce066a4f068696eac029bc58fe": true
+		},
+		"ShadowPlane": {
+			"26855c66e5484b449401ca65edab4860": true
+		},
+		"Tutorial_Text": {
+			"d0002a35eb784155933fe401c955fd58": true
+		},
+		"Tutorial_Text0": {
+			"66748546087c42cc8b97be8ff057ea51": true
+		},
+		"Workspace_Option": {
+			"77c354e3c5cb477595f043c15a0cbd8c": true
+		},
+		"WorldTracker": {
+			"43661c8d3ef04ff19efbafeb72bb229b": true
+		},
+		"WorldTrackingUI": {
+			"73b9420a21f742ec908c3abf9df3f40a": true
+		},
+		"ZapparCamera": {
+			"d056c264c3d345908a1345aeb612ed9d": true
+		},
+		"arrow_01_glb": {
+			"ac09dd01f62b47fba18a205b8390074e": true
+		},
+		"glassIntital_css": {
+			"f743bda86457485fa1aeee69d29214f4": true
+		},
+		"tutorialOverlay_css": {
+			"2199541428a9425caa3d17372b5d5726": true
+		}
+	},
+	"entityConstructorProps": {
+		"02d373ce066a4f068696eac029bc58fe": {
+		},
+		"04a9ddfda6184b958809578e46d7ccbb": {
+		},
+		"09d249dde5aa4159938b9d8bcf24d8f0": {
+			"event": "onClick",
+			"runAtEditTime": true
+		},
+		"0ba8e27369df45ca897731dcb1e39bcf": {
+		},
+		"0cfc446f9586443facfe2b0388a21e59": {
+		},
+		"0e119033eb0c4e5082baa09da28acb02": {
+			"event": "onClick",
+			"runAtEditTime": true
+		},
+		"12838335971c49e8848aae05081a6521": {
+			"font": "file://./fonts/Adero-Medium.otf"
+		},
+		"1f506cab1769461696a795e6b62e674a": {
+			"event": "onClick"
+		},
+		"20511e54aec140689d305cf06ad54ded": {
+			"event": "onClick",
+			"runAtEditTime": true
+		},
+		"2104b5169cc64e439a080b8ddab93066": {
+			"event": "onClick",
+			"runAtEditTime": true
+		},
+		"2199541428a9425caa3d17372b5d5726": {
+			"source": "file://./css/tutorialOverlay.css"
+		},
+		"26855c66e5484b449401ca65edab4860": {
+		},
+		"3932ea3d69aa4aed94097f604287e003": {
+		},
+		"3ae00f2cc872480cb6f0a8dd2741c5de": {
+		},
+		"43661c8d3ef04ff19efbafeb72bb229b": {
+		},
+		"4819247fd30d483898679618b7334abe": {
+			"event": "onClick",
+			"runAtEditTime": true
+		},
+		"4a888ef7895947bda4912ad8e15bccec": {
+		},
+		"52148d8eafe3426085e700e049662c07": {
+		},
+		"534b9f78885f45fb88a73ef6dc09e7c1": {
+		},
+		"557cc57affc04afd838d2d8c4efab796": {
+		},
+		"5c072b0d5ea44cabae3f3673f89098f2": {
+		},
+		"601cb1c913f8485b90d586d1a49a73b4": {
+		},
+		"66748546087c42cc8b97be8ff057ea51": {
+		},
+		"67d350be387e47e890671dd58fb7b0bd": {
+		},
+		"6f0ffc5f6d2f4f80b28494b647141e33": {
+			"event": "onClick",
+			"runAtEditTime": true
+		},
+		"73b9420a21f742ec908c3abf9df3f40a": {
+		},
+		"777b9a6f23574f75b1a03653c52c8037": {
+		},
+		"77c354e3c5cb477595f043c15a0cbd8c": {
+		},
+		"7b6fb4d895774174b5d151eec86b704c": {
+		},
+		"7d8774cf387d4595b461beeb58473324": {
+			"source": "file://./css/GlassmorphismUI.css"
+		},
+		"857f9901b65b42c89a3ff04470d70738": {
+		},
+		"88be6f3f4baa452db0e88a30abcce316": {
+		},
+		"8aceca5f56f54ae298054c8773fa5d2e": {
+		},
+		"8ed1726342cd4cb0b7f03a76932217fc": {
+			"src": "file://./images/Aura-Intractive-Logo-2.png"
+		},
+		"8ef488a2f704467e93bcb6279b8fe1a1": {
+			"font": "file://./fonts/Adero-Medium.otf"
+		},
+		"92467dc45be24fc4a0646d84787bc1bc": {
+			"event": "onClick",
+			"runAtEditTime": true
+		},
+		"a74b1886b9d34aeeac4ff65b8c90a9c6": {
+		},
+		"a945a9257c8948689a3a8c2e4f26a272": {
+			"event": "onClick",
+			"runAtEditTime": true
+		},
+		"aa98d3c8e809493e890204eafedaee68": {
+		},
+		"ac09dd01f62b47fba18a205b8390074e": {
+			"source": "file://./models/arrow_black.glb"
+		},
+		"cdbd499046634ddba6495035f6872d05": {
+			"developerToken": "9d394c76dd6ba08e409e191859bdd400740582dcf4bf4d9f59917de8d0b0df86",
+			"mapFile": "",
+			"mapID": "131803",
+			"onDeviceLocalization": false,
+			"showPreviewAtRuntime": false
+		},
+		"d0002a35eb784155933fe401c955fd58": {
+		},
+		"d056c264c3d345908a1345aeb612ed9d": {
+			"activateAtStart": true,
+			"profile": "high"
+		},
+		"d0b0c460505f469bbc4607dde9770857": {
+		},
+		"e3663bea13c74d00811bdcce79edb21d": {
+		},
+		"e58825d88d434de886513efa67a1cd74": {
+			"event": "onClick",
+			"runAtEditTime": true
+		},
+		"e7f0299498554e24bcfdc823a5b6b172": {
+			"event": "onClick",
+			"runAtEditTime": true
+		},
+		"e82e6317dd4742bd904136ffb9998668": {
+			"source": "file://./models/sims_shard_recolor.glb"
+		},
+		"f4efe4adc48e4ad7aefdccc1b34283c0": {
+			"source": "file://./models/sims_shard_recolor.glb"
+		},
+		"f743bda86457485fa1aeee69d29214f4": {
+			"source": "file://./css/glassIntital.css"
+		},
+		"fddffcc8a26648d28e74da1a1d3c19a0": {
+			"source": "file://./css/selectedModeText.css"
+		},
+		"fee4292f58784138ac2fb7d2470d48dd": {
+		}
+	},
+	"entityPropOverrides": {
+		"componentprop:prop:root:position": {
+			"entityID": "root",
+			"entityPropIsConstructor": false,
+			"entityPropPath": [
+				"position"
+			],
+			"id": "componentprop:prop:root:position",
+			"isConstructorProp": false,
+			"propName": "position",
+			"type": "componentprop"
+		},
+		"componentprop:prop:root:rotation": {
+			"entityID": "root",
+			"entityPropIsConstructor": false,
+			"entityPropPath": [
+				"rotation"
+			],
+			"id": "componentprop:prop:root:rotation",
+			"isConstructorProp": false,
+			"propName": "rotation",
+			"type": "componentprop"
+		},
+		"componentprop:prop:root:scale": {
+			"entityID": "root",
+			"entityPropIsConstructor": false,
+			"entityPropPath": [
+				"scale"
+			],
+			"id": "componentprop:prop:root:scale",
+			"isConstructorProp": false,
+			"propName": "scale",
+			"type": "componentprop"
+		},
+		"componentprop:prop:root:visible": {
+			"entityID": "root",
+			"entityPropIsConstructor": false,
+			"entityPropPath": [
+				"visible"
+			],
+			"id": "componentprop:prop:root:visible",
+			"isConstructorProp": false,
+			"propName": "visible",
+			"type": "componentprop"
+		}
+	},
+	"entityProps": {
+		"02d373ce066a4f068696eac029bc58fe": {
+			"classList": [
+				""
+			],
+			"display": "flex",
+			"enabled": true,
+			"height": [
+				50,
+				"px"
+			],
+			"id": "",
+			"innerText": "",
+			"placeholder": "",
+			"value": "",
+			"width": [
+				100,
+				"%"
+			]
+		},
+		"04a9ddfda6184b958809578e46d7ccbb": {
+			"classList": [
+				"dropdown",
+				""
+			],
+			"id": "",
+			"innerText": "Conference Room"
+		},
+		"09d249dde5aa4159938b9d8bcf24d8f0": {
+			"easing": "easeOut",
+			"enabled": true,
+			"fadeTime": 500,
+			"state": "6bfacad1352b49c08019b7d63875a6c9"
+		},
+		"0ba8e27369df45ca897731dcb1e39bcf": {
+		},
+		"0cfc446f9586443facfe2b0388a21e59": {
+			"anchor3D": false,
+			"verticalAnchor": "top",
+			"visible": false
+		},
+		"0e119033eb0c4e5082baa09da28acb02": {
+			"easing": "easeOut",
+			"fadeTime": 300,
+			"state": "f6aac2771808425db5a2b6d882853bb9"
+		},
+		"12838335971c49e8848aae05081a6521": {
+			"anchorX": "center",
+			"anchorY": "middle",
+			"color": [
+				1,
+				1,
+				1
+			],
+			"direction": "ltf",
+			"doubleSide": true,
+			"outlineBlur": [
+				0.005,
+				"number"
+			],
+			"outlineOpacity": 1,
+			"outlineWidth": [
+				10,
+				"number"
+			],
+			"position": [
+				1.621922529896548,
+				-0.14454119695483386,
+				-1.0382334058568359
+			],
+			"rotation": [
+				0,
+				-0.46504264917420435,
+				0
+			],
+			"text": "Entrance / Exit",
+			"visible": false
+		},
+		"1f506cab1769461696a795e6b62e674a": {
+			"function": {
+				"_zfn": true,
+				"args": [
+				],
+				"entityID": "0e119033eb0c4e5082baa09da28acb02",
+				"fn": "perform",
+				"t": "entity"
+			}
+		},
+		"20511e54aec140689d305cf06ad54ded": {
+			"easing": "",
+			"enabled": true,
+			"state": "31b10728bf2b439ea08296e0126ca95b"
+		},
+		"2104b5169cc64e439a080b8ddab93066": {
+			"state": "38c12293fb6f4663be845dd0d964550c"
+		},
+		"2199541428a9425caa3d17372b5d5726": {
+		},
+		"26855c66e5484b449401ca65edab4860": {
+			"opacity": 0.5,
+			"position": [
+				0,
+				-1.6098225018926011,
+				-2.220446049250313e-16
+			],
+			"scale": [
+				1,
+				1.0130759468164008,
+				1
+			]
+		},
+		"3932ea3d69aa4aed94097f604287e003": {
+			"verticalAnchor": "bottom",
+			"visible": false
+		},
+		"3ae00f2cc872480cb6f0a8dd2741c5de": {
+			"id": "",
+			"innerText": "Lobby",
+			"value": ""
+		},
+		"43661c8d3ef04ff19efbafeb72bb229b": {
+			"visible": true
+		},
+		"4819247fd30d483898679618b7334abe": {
+			"easing": "ease",
+			"fadeTime": 0,
+			"state": "f5054b64adbe47d4ba950a888b35453f"
+		},
+		"4a888ef7895947bda4912ad8e15bccec": {
+			"bottom": [
+				80,
+				"px"
+			],
+			"classList": [
+				"dropdown"
+			],
+			"display": "flex",
+			"flexDirection": "column",
+			"height": [
+				100,
+				"%"
+			],
+			"id": "",
+			"position": "static",
+			"width": [
+				80,
+				"vw"
+			]
+		},
+		"52148d8eafe3426085e700e049662c07": {
+		},
+		"534b9f78885f45fb88a73ef6dc09e7c1": {
+			"classList": [
+				"dropdown",
+				""
+			],
+			"enabled": true,
+			"id": "",
+			"innerText": "Entrance"
+		},
+		"557cc57affc04afd838d2d8c4efab796": {
+			"verticalAnchor": "top"
+		},
+		"5c072b0d5ea44cabae3f3673f89098f2": {
+			"classList": [
+				"glass-btn"
+			],
+			"height": [
+				100,
+				"%"
+			],
+			"innerText": "Explore",
+			"width": [
+				100,
+				"%"
+			]
+		},
+		"601cb1c913f8485b90d586d1a49a73b4": {
+			"classList": [
+				"glass-btn-container",
+				""
+			],
+			"display": "flex",
+			"marginBottom": [
+				10,
+				"px"
+			],
+			"position": "static"
+		},
+		"66748546087c42cc8b97be8ff057ea51": {
+			"display": "block",
+			"id": "tutorialText",
+			"innerText": "Select a Point of Interest from the dropdown below to start the navigation. \n\nAlso, you can click on 'Explore' to view all Points of Interest around you.",
+			"marginTop": [
+				400,
+				"px"
+			],
+			"width": [
+				100,
+				"%"
+			]
+		},
+		"67d350be387e47e890671dd58fb7b0bd": {
+			"id": "",
+			"innerText": "EXPLORE MODE"
+		},
+		"6f0ffc5f6d2f4f80b28494b647141e33": {
+			"state": "6bfacad1352b49c08019b7d63875a6c9"
+		},
+		"73b9420a21f742ec908c3abf9df3f40a": {
+			"preview": "tracking"
+		},
+		"777b9a6f23574f75b1a03653c52c8037": {
+			"classList": [
+				""
+			],
+			"display": "flex",
+			"flexDirection": "column",
+			"height": [
+				45,
+				"px"
+			],
+			"id": "exploreBtn",
+			"innerText": "Explore",
+			"marginTop": [
+				10,
+				"px"
+			],
+			"position": "relative"
+		},
+		"77c354e3c5cb477595f043c15a0cbd8c": {
+			"classList": [
+				"dropdown"
+			],
+			"innerText": "Workspace"
+		},
+		"7b6fb4d895774174b5d151eec86b704c": {
+		},
+		"7d8774cf387d4595b461beeb58473324": {
+		},
+		"857f9901b65b42c89a3ff04470d70738": {
+			"castShadow": true,
+			"position": [
+				0.484023518592053,
+				3.822578351542651,
+				0.9267692671832866
+			],
+			"scale": [
+				2.7075796416797617,
+				2.7075796416797617,
+				2.7075796416797617
+			]
+		},
+		"88be6f3f4baa452db0e88a30abcce316": {
+			"visible": false
+		},
+		"8aceca5f56f54ae298054c8773fa5d2e": {
+		},
+		"8ed1726342cd4cb0b7f03a76932217fc": {
+			"marginTop": [
+				24,
+				"px"
+			],
+			"width": [
+				14,
+				"rem"
+			]
+		},
+		"8ef488a2f704467e93bcb6279b8fe1a1": {
+			"anchorX": "center",
+			"anchorY": "middle",
+			"color": [
+				1,
+				1,
+				1
+			],
+			"direction": "ltf",
+			"doubleSide": true,
+			"outlineBlur": [
+				0.005,
+				"number"
+			],
+			"outlineOpacity": 1,
+			"outlineWidth": [
+				10,
+				"number"
+			],
+			"position": [
+				2.616227860578092,
+				-0.14454119695483386,
+				1.3090647879940307
+			],
+			"rotation": [
+				0,
+				-2.02122819339421,
+				0
+			],
+			"text": "Conference Room",
+			"visible": false
+		},
+		"92467dc45be24fc4a0646d84787bc1bc": {
+			"state": "623cd2a0f17e413289ffa0a4a4100bf0"
+		},
+		"a74b1886b9d34aeeac4ff65b8c90a9c6": {
+			"classList": [
+				"glass-btn"
+			],
+			"innerText": "Conference Room"
+		},
+		"a945a9257c8948689a3a8c2e4f26a272": {
+			"easing": "linear",
+			"enabled": true,
+			"fadeTime": 300,
+			"state": "31b10728bf2b439ea08296e0126ca95b"
+		},
+		"aa98d3c8e809493e890204eafedaee68": {
+			"classList": [
+				"main-container"
+			],
+			"display": "flex",
+			"flexDirection": "column-reverse",
+			"id": "",
+			"marginBottom": [
+				50,
+				"px"
+			],
+			"position": "relative"
+		},
+		"ac09dd01f62b47fba18a205b8390074e": {
+			"castShadow": true,
+			"rotation": [
+				1.5707963267948966,
+				0,
+				0
+			],
+			"scale": [
+				1.2502937874349995,
+				1.2502937874349995,
+				1.3431044464839812
+			],
+			"visible": true
+		},
+		"cdbd499046634ddba6495035f6872d05": {
+			"continuousLocalization": true,
+			"readyBeforeLocalized": true,
+			"visibleWhenInitializing": false
+		},
+		"d0002a35eb784155933fe401c955fd58": {
+			"display": "block",
+			"id": "tutorialText",
+			"innerText": "Select a Point of Interest from the dropdown below to start the navigation. \n\nAlso, you can click on 'Explore' to view all Points of Interest around you.",
+			"marginTop": [
+				400,
+				"px"
+			],
+			"width": [
+				100,
+				"%"
+			]
+		},
+		"d056c264c3d345908a1345aeb612ed9d": {
+			"visible": true
+		},
+		"d0b0c460505f469bbc4607dde9770857": {
+			"classList": [
+				"glass-btn"
+			],
+			"innerText": "Entrance"
+		},
+		"e3663bea13c74d00811bdcce79edb21d": {
+			"castShadow": false,
+			"horizontalAnchor": "center",
+			"receiveShadow": false,
+			"verticalAnchor": "bottom",
+			"visible": true
+		},
+		"e58825d88d434de886513efa67a1cd74": {
+			"enabled": true,
+			"state": "6bfacad1352b49c08019b7d63875a6c9"
+		},
+		"e7f0299498554e24bcfdc823a5b6b172": {
+			"state": "6bfacad1352b49c08019b7d63875a6c9"
+		},
+		"e82e6317dd4742bd904136ffb9998668": {
+			"position": [
+				2.617448662191764,
+				-0.4903576770017153,
+				1.295410870166324
+			],
+			"scale": [
+				0.04750279574759072,
+				0.0423686641048637,
+				0.04750279574759072
+			],
+			"visible": false
+		},
+		"f4efe4adc48e4ad7aefdccc1b34283c0": {
+			"position": [
+				1.621922529896548,
+				-0.5165927082883819,
+				-1.0386082902290152
+			],
+			"rotation": [
+				0.001619555558382002,
+				0,
+				0
+			],
+			"scale": [
+				0.04750279574759072,
+				0.0423686641048637,
+				0.04750279574759072
+			],
+			"visible": false
+		},
+		"f743bda86457485fa1aeee69d29214f4": {
+		},
+		"fddffcc8a26648d28e74da1a1d3c19a0": {
+		},
+		"fee4292f58784138ac2fb7d2470d48dd": {
+			"position": [
+				0,
+				-0.27109102136527574,
+				0
+			],
+			"receiveShadow": true,
+			"target": "f4efe4adc48e4ad7aefdccc1b34283c0",
+			"visible": false
+		},
+		"root": {
+			"position": [
+				-1.7761028621592283,
+				0,
+				0
+			]
+		}
+	},
+	"id": "5d4513e843574c04847bf1474912090f",
+	"nodes": {
+		"02d373ce066a4f068696eac029bc58fe": {
+			"id": "02d373ce066a4f068696eac029bc58fe",
+			"label": "Select POI",
+			"parent": {
+				"id": "4a888ef7895947bda4912ad8e15bccec",
+				"order": "Zy"
+			},
+			"scriptName": "Select_POI",
+			"type": "./selectWithPlaceholder#Select"
+		},
+		"04a9ddfda6184b958809578e46d7ccbb": {
+			"id": "04a9ddfda6184b958809578e46d7ccbb",
+			"label": "Conference Room Option",
+			"parent": {
+				"id": "02d373ce066a4f068696eac029bc58fe",
+				"order": "a2"
+			},
+			"scriptName": "Conference_RoomOption",
+			"type": "./option#Option"
+		},
+		"0ba8e27369df45ca897731dcb1e39bcf": {
+			"id": "0ba8e27369df45ca897731dcb1e39bcf",
+			"label": "DefaultCookieConsent",
+			"parent": {
+				"id": "7b6fb4d895774174b5d151eec86b704c",
+				"order": "a4"
+			},
+			"scriptName": "DefaultCookieConsent",
+			"type": "@zcomponent/core/lib/components/DefaultCookieConsent#DefaultCookieConsent"
+		},
+		"0cfc446f9586443facfe2b0388a21e59": {
+			"id": "0cfc446f9586443facfe2b0388a21e59",
+			"label": "Mode / Selected Destination Indicator Text",
+			"parent": {
+				"id": "root",
+				"order": "aC"
+			},
+			"scriptName": "Mode_SelectedDestinationIndicatorText",
+			"type": "@zcomponent/three/lib/components/HTML#HTML"
+		},
+		"12838335971c49e8848aae05081a6521": {
+			"id": "12838335971c49e8848aae05081a6521",
+			"label": "EntranceTarget Label",
+			"parent": {
+				"id": "cdbd499046634ddba6495035f6872d05",
+				"order": "a4"
+			},
+			"scriptName": "EntranceTarget_Label",
+			"type": "@zcomponent/three/lib/components/text/Text#Text"
+		},
+		"2199541428a9425caa3d17372b5d5726": {
+			"id": "2199541428a9425caa3d17372b5d5726",
+			"label": "tutorialOverlay.css",
+			"parent": {
+				"id": "4a888ef7895947bda4912ad8e15bccec",
+				"order": "Zw"
+			},
+			"scriptName": "tutorialOverlay_css",
+			"type": "@zcomponent/html/lib/CSS#CSS"
+		},
+		"26855c66e5484b449401ca65edab4860": {
+			"id": "26855c66e5484b449401ca65edab4860",
+			"label": "ShadowPlane",
+			"parent": {
+				"id": "cdbd499046634ddba6495035f6872d05",
+				"order": "a0"
+			},
+			"scriptName": "ShadowPlane",
+			"type": "@zcomponent/three/lib/components/meshes/ShadowPlane#ShadowPlane"
+		},
+		"3932ea3d69aa4aed94097f604287e003": {
+			"id": "3932ea3d69aa4aed94097f604287e003",
+			"label": "Glass Initial (Buttons)",
+			"parent": {
+				"id": "root",
+				"order": "aD"
+			},
+			"scriptName": "Glass_InitialButtons",
+			"type": "@zcomponent/three/lib/components/HTML#HTML"
+		},
+		"3ae00f2cc872480cb6f0a8dd2741c5de": {
+			"id": "3ae00f2cc872480cb6f0a8dd2741c5de",
+			"label": "Lobby Option",
+			"parent": {
+				"id": "02d373ce066a4f068696eac029bc58fe",
+				"order": "a1l"
+			},
+			"scriptName": "Lobby_Option",
+			"type": "./option#Option"
+		},
+		"43661c8d3ef04ff19efbafeb72bb229b": {
+			"id": "43661c8d3ef04ff19efbafeb72bb229b",
+			"label": "WorldTracker",
+			"parent": {
+				"id": "root",
+				"order": "ZX"
+			},
+			"scriptName": "WorldTracker",
+			"type": "@zcomponent/zappar-three/lib/components/trackers/WorldTracker#WorldTracker"
+		},
+		"4a888ef7895947bda4912ad8e15bccec": {
+			"id": "4a888ef7895947bda4912ad8e15bccec",
+			"label": "Div",
+			"parent": {
+				"id": "e3663bea13c74d00811bdcce79edb21d",
+				"order": "a2"
+			},
+			"scriptName": "Div",
+			"type": "@zcomponent/html/lib/div#Div"
+		},
+		"52148d8eafe3426085e700e049662c07": {
+			"id": "52148d8eafe3426085e700e049662c07",
+			"label": "DefaultLoader",
+			"parent": {
+				"id": "7b6fb4d895774174b5d151eec86b704c",
+				"order": "Zp"
+			},
+			"scriptName": "DefaultLoader",
+			"type": "@zcomponent/core/lib/components/DefaultLoader#DefaultLoader"
+		},
+		"534b9f78885f45fb88a73ef6dc09e7c1": {
+			"id": "534b9f78885f45fb88a73ef6dc09e7c1",
+			"label": "Entrance Option",
+			"parent": {
+				"id": "02d373ce066a4f068696eac029bc58fe",
+				"order": "a1V"
+			},
+			"scriptName": "Entrance_Option",
+			"type": "./option#Option"
+		},
+		"557cc57affc04afd838d2d8c4efab796": {
+			"id": "557cc57affc04afd838d2d8c4efab796",
+			"label": "Aura Interactive Top Logo",
+			"parent": {
+				"id": "root",
+				"order": "aB"
+			},
+			"scriptName": "Aura_InteractiveTopLogo",
+			"type": "@zcomponent/three/lib/components/HTML#HTML"
+		},
+		"5c072b0d5ea44cabae3f3673f89098f2": {
+			"id": "5c072b0d5ea44cabae3f3673f89098f2",
+			"label": "Explore Button",
+			"parent": {
+				"id": "aa98d3c8e809493e890204eafedaee68",
+				"order": "Zy"
+			},
+			"scriptName": "Explore_Button0",
+			"type": "@zcomponent/html/lib/button#Button"
+		},
+		"601cb1c913f8485b90d586d1a49a73b4": {
+			"id": "601cb1c913f8485b90d586d1a49a73b4",
+			"label": "Div 2",
+			"parent": {
+				"id": "aa98d3c8e809493e890204eafedaee68",
+				"order": "Zz"
+			},
+			"scriptName": "Div_2",
+			"type": "@zcomponent/html/lib/div#Div"
+		},
+		"66748546087c42cc8b97be8ff057ea51": {
+			"id": "66748546087c42cc8b97be8ff057ea51",
+			"label": "Tutorial Text 2",
+			"parent": {
+				"id": "3932ea3d69aa4aed94097f604287e003",
+				"order": "a2"
+			},
+			"scriptName": "Tutorial_Text0",
+			"type": "@zcomponent/html/lib/headings#H4"
+		},
+		"67d350be387e47e890671dd58fb7b0bd": {
+			"id": "67d350be387e47e890671dd58fb7b0bd",
+			"label": "H2",
+			"parent": {
+				"id": "0cfc446f9586443facfe2b0388a21e59",
+				"order": "a0"
+			},
+			"scriptName": "H2",
+			"type": "@zcomponent/html/lib/headings#H2"
+		},
+		"73b9420a21f742ec908c3abf9df3f40a": {
+			"id": "73b9420a21f742ec908c3abf9df3f40a",
+			"label": "WorldTrackingUI",
+			"parent": {
+				"id": "43661c8d3ef04ff19efbafeb72bb229b",
+				"order": "ZwV"
+			},
+			"scriptName": "WorldTrackingUI",
+			"type": "@zcomponent/zappar-three/lib/components/WorldTrackingUI#WorldTrackingUI"
+		},
+		"777b9a6f23574f75b1a03653c52c8037": {
+			"id": "777b9a6f23574f75b1a03653c52c8037",
+			"label": "Explore Button",
+			"parent": {
+				"id": "4a888ef7895947bda4912ad8e15bccec",
+				"order": "Zz"
+			},
+			"scriptName": "Explore_Button",
+			"type": "@zcomponent/html/lib/button#Button"
+		},
+		"77c354e3c5cb477595f043c15a0cbd8c": {
+			"id": "77c354e3c5cb477595f043c15a0cbd8c",
+			"label": "Workspace Option",
+			"parent": {
+				"id": "02d373ce066a4f068696eac029bc58fe",
+				"order": "a3"
+			},
+			"scriptName": "Workspace_Option",
+			"type": "./option#Option"
+		},
+		"7b6fb4d895774174b5d151eec86b704c": {
+			"id": "7b6fb4d895774174b5d151eec86b704c",
+			"label": "Defaults",
+			"parent": {
+				"id": "root",
+				"order": "a0"
+			},
+			"scriptName": "Defaults",
+			"type": "@zcomponent/three/lib/components/Group#Group"
+		},
+		"7d8774cf387d4595b461beeb58473324": {
+			"id": "7d8774cf387d4595b461beeb58473324",
+			"label": "Bottom Overlay CSS",
+			"parent": {
+				"id": "e3663bea13c74d00811bdcce79edb21d",
+				"order": "Zz"
+			},
+			"scriptName": "Bottom_OverlayCSS",
+			"type": "@zcomponent/html/lib/CSS#CSS"
+		},
+		"857f9901b65b42c89a3ff04470d70738": {
+			"id": "857f9901b65b42c89a3ff04470d70738",
+			"label": "DirectionalLight",
+			"parent": {
+				"id": "cdbd499046634ddba6495035f6872d05",
+				"order": "a1"
+			},
+			"scriptName": "DirectionalLight",
+			"type": "@zcomponent/three/lib/components/lights/DirectionalLight#DirectionalLight"
+		},
+		"88be6f3f4baa452db0e88a30abcce316": {
+			"id": "88be6f3f4baa452db0e88a30abcce316",
+			"label": "Navigation Arrow",
+			"parent": {
+				"id": "root",
+				"order": "a7"
+			},
+			"scriptName": "Navigation_Arrow",
+			"type": "@zcomponent/three/lib/components/transforms/CameraTransform#CameraTransform"
+		},
+		"8aceca5f56f54ae298054c8773fa5d2e": {
+			"id": "8aceca5f56f54ae298054c8773fa5d2e",
+			"label": "CameraEnvironmentMap",
+			"parent": {
+				"id": "root",
+				"order": "a5"
+			},
+			"scriptName": "CameraEnvironmentMap",
+			"type": "@zcomponent/zappar-three/lib/components/environments/CameraEnvironmentMap#CameraEnvironmentMap"
+		},
+		"8ed1726342cd4cb0b7f03a76932217fc": {
+			"id": "8ed1726342cd4cb0b7f03a76932217fc",
+			"label": "Img",
+			"parent": {
+				"id": "557cc57affc04afd838d2d8c4efab796",
+				"order": "Zy"
+			},
+			"scriptName": "Img",
+			"type": "@zcomponent/html/lib/img#Img"
+		},
+		"8ef488a2f704467e93bcb6279b8fe1a1": {
+			"id": "8ef488a2f704467e93bcb6279b8fe1a1",
+			"label": "ConferenceTarget Label",
+			"parent": {
+				"id": "cdbd499046634ddba6495035f6872d05",
+				"order": "a3"
+			},
+			"scriptName": "ConferenceTarget_Label",
+			"type": "@zcomponent/three/lib/components/text/Text#Text"
+		},
+		"a74b1886b9d34aeeac4ff65b8c90a9c6": {
+			"id": "a74b1886b9d34aeeac4ff65b8c90a9c6",
+			"label": "Conference",
+			"parent": {
+				"id": "601cb1c913f8485b90d586d1a49a73b4",
+				"order": "a1"
+			},
+			"scriptName": "Conference",
+			"type": "@zcomponent/html/lib/button#Button"
+		},
+		"aa98d3c8e809493e890204eafedaee68": {
+			"id": "aa98d3c8e809493e890204eafedaee68",
+			"label": "Div 3",
+			"parent": {
+				"id": "3932ea3d69aa4aed94097f604287e003",
+				"order": "a7"
+			},
+			"scriptName": "Div_3",
+			"type": "@zcomponent/html/lib/div#Div"
+		},
+		"ac09dd01f62b47fba18a205b8390074e": {
+			"id": "ac09dd01f62b47fba18a205b8390074e",
+			"label": "arrow_01.glb",
+			"parent": {
+				"id": "fee4292f58784138ac2fb7d2470d48dd",
+				"order": "a0"
+			},
+			"scriptName": "arrow_01_glb",
+			"type": "@zcomponent/three/lib/components/models/GLTF#GLTF"
+		},
+		"cdbd499046634ddba6495035f6872d05": {
+			"id": "cdbd499046634ddba6495035f6872d05",
+			"label": "ImmersalAnchorGroup",
+			"parent": {
+				"id": "43661c8d3ef04ff19efbafeb72bb229b",
+				"order": "Zw"
+			},
+			"scriptName": "ImmersalAnchorGroup",
+			"type": "@zcomponent/immersal/lib/components/ImmersalAnchorGroup#ImmersalAnchorGroup"
+		},
+		"d0002a35eb784155933fe401c955fd58": {
+			"id": "d0002a35eb784155933fe401c955fd58",
+			"label": "Tutorial Text",
+			"parent": {
+				"id": "4a888ef7895947bda4912ad8e15bccec",
+				"order": "Zx"
+			},
+			"scriptName": "Tutorial_Text",
+			"type": "@zcomponent/html/lib/headings#H4"
+		},
+		"d056c264c3d345908a1345aeb612ed9d": {
+			"id": "d056c264c3d345908a1345aeb612ed9d",
+			"label": "ZapparCamera",
+			"parent": {
+				"id": "root",
+				"order": "ZW"
+			},
+			"scriptName": "ZapparCamera",
+			"type": "@zcomponent/zappar-three/lib/components/cameras/Camera#ZapparCamera"
+		},
+		"d0b0c460505f469bbc4607dde9770857": {
+			"id": "d0b0c460505f469bbc4607dde9770857",
+			"label": "Entrance",
+			"parent": {
+				"id": "601cb1c913f8485b90d586d1a49a73b4",
+				"order": "a0"
+			},
+			"scriptName": "Entrance",
+			"type": "@zcomponent/html/lib/button#Button"
+		},
+		"e3663bea13c74d00811bdcce79edb21d": {
+			"id": "e3663bea13c74d00811bdcce79edb21d",
+			"label": "Glassmorphism Bottom UI (Dropdown)",
+			"parent": {
+				"id": "root",
+				"order": "a8"
+			},
+			"scriptName": "Glassmorphism_BottomUIDropdown",
+			"type": "@zcomponent/three/lib/components/HTML#HTML"
+		},
+		"e82e6317dd4742bd904136ffb9998668": {
+			"id": "e82e6317dd4742bd904136ffb9998668",
+			"label": "Conference Target",
+			"parent": {
+				"id": "cdbd499046634ddba6495035f6872d05",
+				"order": "a1V"
+			},
+			"scriptName": "Conference_Target",
+			"type": "@zcomponent/three/lib/components/models/GLTF#GLTF"
+		},
+		"f4efe4adc48e4ad7aefdccc1b34283c0": {
+			"id": "f4efe4adc48e4ad7aefdccc1b34283c0",
+			"label": "Entrance Target",
+			"parent": {
+				"id": "cdbd499046634ddba6495035f6872d05",
+				"order": "a2"
+			},
+			"scriptName": "Entrance_Target",
+			"type": "@zcomponent/three/lib/components/models/GLTF#GLTF"
+		},
+		"f743bda86457485fa1aeee69d29214f4": {
+			"id": "f743bda86457485fa1aeee69d29214f4",
+			"label": "glassIntital.css",
+			"parent": {
+				"id": "3932ea3d69aa4aed94097f604287e003",
+				"order": "a1"
+			},
+			"scriptName": "glassIntital_css",
+			"type": "@zcomponent/html/lib/CSS#CSS"
+		},
+		"fddffcc8a26648d28e74da1a1d3c19a0": {
+			"id": "fddffcc8a26648d28e74da1a1d3c19a0",
+			"label": "CSS",
+			"parent": {
+				"id": "0cfc446f9586443facfe2b0388a21e59",
+				"order": "Zz"
+			},
+			"scriptName": "CSS",
+			"type": "@zcomponent/html/lib/CSS#CSS"
+		},
+		"fee4292f58784138ac2fb7d2470d48dd": {
+			"id": "fee4292f58784138ac2fb7d2470d48dd",
+			"label": "LookAtNode",
+			"parent": {
+				"id": "88be6f3f4baa452db0e88a30abcce316",
+				"order": "a0"
+			},
+			"scriptName": "LookAtNode",
+			"type": "@zcomponent/three/lib/components/transforms/LookAtNode#LookAtNode"
+		},
+		"root": {
+			"id": "root",
+			"label": "Group",
+			"type": "@zcomponent/three/lib/components/Group#Group"
+		}
+	},
+	"preview": "@zcomponent/three/lib/preview#default",
+	"propEntityOverrides": {
+		"position": {
+			"root": {
+				"position": true
+			}
+		}
+	},
+	"props": {
+		"position": {
+			"comments": [
+				"The position, in 3D space, of this node relative to its parent. The three elements of the array correspond to the `x`, `y`, and `z` components of position."
+			],
+			"default": [
+				0,
+				0,
+				0
+			],
+			"group": "Transform",
+			"groupPriority": 10,
+			"name": "position",
+			"type": {
+				"children": [
+					{
+						"comments": [
+						],
+						"name": "number"
+					},
+					{
+						"comments": [
+						],
+						"name": "number"
+					},
+					{
+						"comments": [
+						],
+						"name": "number"
+					}
+				],
+				"comments": [
+				],
+				"isObservable": true,
+				"name": "tuple",
+				"names": [
+					"x",
+					"y",
+					"z"
+				]
+			}
+		},
+		"rotation": {
+			"comments": [
+				"The rotation, in three dimensions, of this node relative to its parent. The three elements of the array correspond to Euler angles - yaw, pitch and roll."
+			],
+			"default": [
+				0,
+				0,
+				0
+			],
+			"group": "Transform",
+			"groupPriority": 10,
+			"name": "rotation",
+			"type": {
+				"children": [
+					{
+						"comments": [
+						],
+						"name": "number"
+					},
+					{
+						"comments": [
+						],
+						"name": "number"
+					},
+					{
+						"comments": [
+						],
+						"name": "number"
+					}
+				],
+				"comments": [
+				],
+				"isObservable": true,
+				"name": "tuple",
+				"names": [
+					"x",
+					"y",
+					"z"
+				]
+			}
+		},
+		"scale": {
+			"comments": [
+				"The scale, in three dimensions, of this node relative to its parent. The three elements of the array correspond to scales in the the `x`, `y`, and `z` axis."
+			],
+			"default": [
+				1,
+				1,
+				1
+			],
+			"group": "Transform",
+			"groupPriority": 10,
+			"name": "scale",
+			"type": {
+				"children": [
+					{
+						"comments": [
+						],
+						"name": "number"
+					},
+					{
+						"comments": [
+						],
+						"name": "number"
+					},
+					{
+						"comments": [
+						],
+						"name": "number"
+					}
+				],
+				"comments": [
+				],
+				"isObservable": true,
+				"name": "tuple",
+				"names": [
+					"x",
+					"y",
+					"z"
+				]
+			}
+		},
+		"visible": {
+			"comments": [
+				"Determines if this object and its children are rendered to the screen."
+			],
+			"default": true,
+			"group": "Appearance",
+			"groupPriority": 11,
+			"name": "visible",
+			"type": {
+				"comments": [
+				],
+				"isObservable": true,
+				"name": "boolean"
+			}
+		}
+	},
+	"root": "root"
+}

@@ -1,0 +1,117 @@
+Header
+.headerText {
+  color: white;
+  font-size: 18px;
+  font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", Arial, sans-serif;
+  text-align: center;
+  font-weight: 500;
+  letter-spacing: 0.3px;
+}
+
+/* Frosted Glass Footer */
+.footerContainer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 12px 16px;
+  backdrop-filter: blur(10px) saturate(180%);
+  -webkit-backdrop-filter: blur(15px) saturate(180%);
+  background: rgba(255, 255, 255, 0.1);
+  border-top: 1px solid rgba(255, 255, 255, 0.4);
+  border-radius: 20px 20px 0 0; 
+}
+
+/* Items (icons + text) */
+.footerItem {
+  display: flex;
+  height: 100%;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  text-align: center;
+  padding: 10px;
+  border-radius: 16px;
+  transition: all 0.25s ease;
+}
+.footerItem:hover {
+  background: rgba(255, 255, 255, 0.2);
+  transform: scale(1.05);
+}
+.text {
+  color: white;
+  display: flex;
+  height: 100%;
+  font-size: 20px;
+  margin-top: 4px;
+  align-items: center;
+  justify-content: center;
+  font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", Arial, sans-serif;
+  opacity: 0.9;
+}
+.img {
+  width: 28px;
+  height: 28px;
+  object-fit: contain;
+  margin-bottom: 3px;
+}
+
+/* Active/tapped state */
+.footerItemActive {
+  background: rgba(255, 255, 255, 0.35);
+  border-radius: 16px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+/* iOS-like dropdown for location selection */
+.locationDropdown {
+  background: rgba(255, 255, 255, 0.25);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.35);
+  border-radius: 12px;
+  color: white;
+  font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", Arial, sans-serif;
+  font-size: 14px;
+  padding: 8px 12px;
+  outline: none;
+  appearance: none;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+.locationDropdown:focus {
+  border-color: rgba(255, 255, 255, 0.6);
+  background: rgba(255, 255, 255, 0.3);
+}
+.locationDropdown::-ms-expand {
+  display: none; /* remove default arrow for IE */
+}
+
+/* Button style (frosted glass rounded look) */
+.custom-button {
+  background: rgba(255, 255, 255, 0.25);
+  color: white;
+  border: none;
+  border-radius: 999px;
+  padding: 12px 24px;
+  font-size: 16px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.25s ease;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.custom-button:hover {
+  background: rgba(255, 255, 255, 0.35);
+}
+.custom-button:active {
+  background: rgba(255, 255, 255, 0.5);
+  transform: scale(0.97);
+}

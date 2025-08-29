@@ -1,0 +1,121 @@
+
+/* @font-face {
+  font-family: 'AderoMedium';
+  font-style: normal;
+  font-weight: 600;
+  src: url(/Adero-Medium.otf);
+} */
+
+select {
+  -webkit-appearance: none;  /* Safari/Chrome */
+  -moz-appearance: none;     /* Firefox */
+  appearance: none;
+  background: rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(10px);
+  border: 2px solid rgba(0, 0, 0, 0.5);
+  border-radius: 20px;
+  padding: 10px 50px 10px 20px; /* right padding for arrow */
+  font-weight: 500;
+  font-size: 16px;
+  position: relative;
+  color: #DDDDDD;
+  width: 80%;
+  background-image: url('data:image/svg+xml;utf8,<svg fill="white" height="20" viewBox="0 0 24 24" width="20" xmlns="http://www.w3.org/2000/svg"><path d="M7 10l5 5 5-5z"/></svg>');
+  background-repeat: no-repeat;
+  background-position: right 20px center;
+  background-size: 20px;
+}
+
+
+/* Container */
+.dropdown{
+  position: relative;
+  display: flex;
+  align-items: center;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+/* Dropdown Button */
+#dropdownBtn {
+  background: rgba(255, 255, 255, 0.3);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  border-radius: 20px;
+  padding: 10px 50px;
+  cursor: pointer;
+  color: #FFFFFF;
+  font-weight: bold;
+  text-align: center;
+  transition: background 0.3s, box-shadow 0.3s;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+}
+
+#exploreBtn {
+ -webkit-appearance: none;  /* Safari/Chrome */
+  -moz-appearance: none;     /* Firefox */
+  appearance: none;
+  background: rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(10px);
+  border: 2px solid rgba(0, 0, 0, 0.5);
+  border-radius: 15px;
+  font-weight: 500;
+  font-size: 16px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  color: #DDDDDD;
+  width: fit-content;
+  padding: 5px 30px;
+
+}
+
+#dropdownBtn:hover {
+  background: rgba(255, 255, 255, 0.4);
+  box-shadow: 0 6px 35px rgba(0, 0, 0, 0.15);
+}
+
+/* Dropdown Content */
+.dropdown-content {
+  position: absolute;
+  top: 110%;
+  left: 0;
+  min-width: 200px;
+  background: rgba(255, 255, 255, 0.25);
+  backdrop-filter: blur(15px);
+  border-radius: 20px;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+  padding: 10px 0;
+  display: none;
+  flex-direction: column;
+  z-index: 100;
+}
+
+/* Dropdown Items */
+.dropdown-content button {
+  background: transparent;
+  border: none;
+  width: 100%;
+  text-align: left;
+  padding: 12px 20px;
+  color: #000;
+  font-size: 16px;
+  border-radius: 15px;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.dropdown-content button:hover {
+  background: rgba(255, 255, 255, 0.4);
+}
+
+/* Show dropdown */
+.dropdown-content.show {
+  display: flex;
+  animation: fadeIn 0.2s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(-10px);}
+  to { opacity: 1; transform: translateY(0);}
+}
