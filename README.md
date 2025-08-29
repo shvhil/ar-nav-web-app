@@ -15,7 +15,7 @@ Core Features:
 - Explore all Points of Interest in the current space.
 
 Possible Additional Features
-[x] Fully Labelled Spaces with Text (Implemented)
-[] Occluders
-[] Pop-up Notification trigger upon reaching destination
+- [x] Fully Labelled Spaces with Text (Implemented)
+- [] Occluders
+- [] Pop-up Notification trigger upon reaching destination
  
