@@ -8,7 +8,7 @@ Public Link: https://d.webxr.run/?url=https%3A%2F%2Fzp6q0.zappar-us.io%2F2196645
 
 Documentation (to recreate or to adapt it to a different space): https://aura-interactive.gitbook.io/aura-interactive-docs/iK5OaTG9E6lkXbwWWbv6
 
-The project was developed and published through Zapper's Mattercraft. The documentation above is a full guide to develop the application from scratch. You can find all the models and styles used in the repo.
+The project was developed and published through Zapper's Mattercraft using Immersal's AR SDK. The documentation above is a full guide to develop the application from scratch. You can find all the models and styles used in the repo.
 
 Core Features: 
 - Navigation to selected Point of Interest
